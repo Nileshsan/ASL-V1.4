@@ -1,0 +1,2175 @@
+[
+    {
+        "email_body":"Hi Nilesh, attached is your invoice for the month of March 2025. Kindly make sure the payment is completed by the 10th of next month to avoid any late fees.",
+        "summary":"Invoice for March 2025 due by 10th next month."
+    },
+    {
+        "email_body":"Reminder: Your outstanding payment of $500 for the monthly subscription is due. Please process the payment immediately.",
+        "summary":"Outstanding payment of $500 due for subscription."
+    },
+    {
+        "email_body":"Hello Nilesh, this is a friendly reminder about the meeting scheduled for tomorrow at 3 PM. Please be on time.",
+        "summary":"Meeting reminder for tomorrow at 3 PM."
+    },
+    {
+        "email_body":"Dear Nilesh, the task assigned to you regarding the project XYZ has been successfully completed. Kindly review the report and provide feedback.",
+        "summary":"Task completed for project XYZ, awaiting feedback."
+    },
+    {
+        "email_body":"Please be advised that the deadline for the annual report submission has been moved up to next Monday, April 2nd. Kindly ensure timely submission.",
+        "summary":"Annual report deadline moved to April 2nd."
+    },
+    {
+        "email_body":"Dear Nilesh, I hope you're doing well. This email serves as a reminder that your office rent is due this Friday. Kindly ensure payment by that time.",
+        "summary":"Office rent due this Friday."
+    },
+    {
+        "email_body":"Hi Nilesh, just following up on the task assigned to you last week. Please provide the final draft by end of day Friday.",
+        "summary":"Task follow-up, final draft due Friday."
+    },
+    {
+        "email_body":"Reminder: The deadline for submitting the quarterly financial report is fast approaching. Kindly complete the necessary details before the end of the week.",
+        "summary":"Quarterly financial report due by the end of the week."
+    },
+    {
+        "email_body":"Dear Nilesh, your business card design is approved. Kindly proceed with the next steps and get back to me with updates.",
+        "summary":"Business card design approved, proceed with next steps."
+    },
+    {
+        "email_body":"Dear Nilesh, please review the attached invoice for the consulting services provided. Payment is expected within 30 days.",
+        "summary":"Consulting services invoice attached, payment due in 30 days."
+    },
+
+    {
+        "email_body":"Hi Nilesh, your domain renewal is pending. Please renew your domain before April 15th to ensure uninterrupted service.",
+        "summary":"Domain renewal pending, due by April 15th."
+    },
+    {
+        "email_body":"Dear Nilesh, the system maintenance window is scheduled from 12 AM to 4 AM tomorrow. Expect downtime during this period.",
+        "summary":"System maintenance scheduled from 12 AM to 4 AM tomorrow."
+    },
+    {
+        "email_body":"Your payment receipt for $1,200 has been processed successfully. Thank you for your business.",
+        "summary":"Payment of $1,200 processed successfully."
+    },
+    {
+        "email_body":"Nilesh, your timesheet for the week ending April 10th is missing. Please submit it by EOD today.",
+        "summary":"Missing timesheet for April 10th, submit by EOD."
+    },
+    {
+        "email_body":"We noticed suspicious activity in your account. Please verify your login immediately to secure your account.",
+        "summary":"Suspicious activity detected, verify your login."
+    },
+    {
+        "email_body":"Just a heads-up, the marketing team will be running email campaigns starting this Thursday. Expect higher email volume.",
+        "summary":"Marketing campaigns starting Thursday, expect more emails."
+    },
+    {
+        "email_body":"Dear Nilesh, the expense report has been approved and processed. Reimbursement will be made by the end of this week.",
+        "summary":"Expense report approved, reimbursement by week's end."
+    },
+    {
+        "email_body":"Reminder: The team standup is now moved to 9:30 AM every Monday. Please update your calendar.",
+        "summary":"Weekly team standup moved to 9:30 AM on Mondays."
+    },
+    {
+        "email_body":"Hi Nilesh, please find attached the agreement for the upcoming contract. Review and sign at your earliest convenience.",
+        "summary":"Agreement attached for new contract, review and sign."
+    },
+    {
+        "email_body":"This is to inform you that the new leave policy will be effective from May 1st. Please go through the details.",
+        "summary":"New leave policy effective May 1st."
+    },
+
+    {
+        "email_body":"Dear Nilesh, your shipment has been delayed due to unforeseen circumstances. We apologize for the inconvenience.",
+        "summary":"Shipment delayed due to unforeseen circumstances."
+    },
+    {
+        "email_body":"Hello, please find your monthly bank statement attached. Reach out if you notice any discrepancies.",
+        "summary":"Monthly bank statement attached."
+    },
+    {
+        "email_body":"Nilesh, your requested software license has been issued. The key is included in the attached file.",
+        "summary":"Software license issued, key attached."
+    },
+    {
+        "email_body":"We're upgrading our servers on Sunday. There may be short service interruptions between 1 AM and 3 AM.",
+        "summary":"Server upgrade Sunday, possible outages 1\u20133 AM."
+    },
+    {
+        "email_body":"Your interview is scheduled for Wednesday at 11 AM via Zoom. The link is attached.",
+        "summary":"Interview scheduled Wednesday at 11 AM on Zoom."
+    },
+    {
+        "email_body":"Reminder: Team building activity at the park this Friday at 4 PM. Snacks and drinks provided.",
+        "summary":"Team building activity Friday 4 PM at the park."
+    },
+    {
+        "email_body":"Congratulations! Your leave for April 22\u201324 has been approved by your manager.",
+        "summary":"Leave approved for April 22\u201324."
+    },
+    {
+        "email_body":"Hi, your IT ticket #45231 has been resolved. Let us know if you face any more issues.",
+        "summary":"IT ticket #45231 resolved."
+    },
+    {
+        "email_body":"Hi Nilesh, attached is your invoice for the month of March 2025. Kindly make sure the payment is completed by the 10th of next month to avoid any late fees.",
+        "summary":"Invoice for March 2025 due by 10th next month."
+    },
+    {
+        "email_body":"Reminder: Your outstanding payment of $500 for the monthly subscription is due. Please process the payment immediately.",
+        "summary":"Outstanding payment of $500 due for subscription."
+    },
+    {
+        "email_body":"Hello Nilesh, this is a friendly reminder about the meeting scheduled for tomorrow at 3 PM. Please be on time.",
+        "summary":"Meeting reminder for tomorrow at 3 PM."
+    },
+    {
+        "email_body":"Dear Nilesh, the task assigned to you regarding the project XYZ has been successfully completed. Kindly review the report and provide feedback.",
+        "summary":"Task completed for project XYZ, awaiting feedback."
+    },
+    {
+        "email_body":"Please be advised that the deadline for the annual report submission has been moved up to next Monday, April 2nd. Kindly ensure timely submission.",
+        "summary":"Annual report deadline moved to April 2nd."
+    },
+    {
+        "email_body":"Dear Nilesh, I hope you're doing well. This email serves as a reminder that your office rent is due this Friday. Kindly ensure payment by that time.",
+        "summary":"Office rent due this Friday."
+    },
+    {
+        "email_body":"Hi Nilesh, just following up on the task assigned to you last week. Please provide the final draft by end of day Friday.",
+        "summary":"Task follow-up, final draft due Friday."
+    },
+    {
+        "email_body":"Reminder: The deadline for submitting the quarterly financial report is fast approaching. Kindly complete the necessary details before the end of the week.",
+        "summary":"Quarterly financial report due by the end of the week."
+    },
+    {
+        "email_body":"Dear Nilesh, your business card design is approved. Kindly proceed with the next steps and get back to me with updates.",
+        "summary":"Business card design approved, proceed with next steps."
+    },
+    {
+        "email_body":"Dear Nilesh, please review the attached invoice for the consulting services provided. Payment is expected within 30 days.",
+        "summary":"Consulting services invoice attached, payment due in 30 days."
+    },
+    {
+        "email_body":"Hi Nilesh, your domain renewal is pending. Please renew your domain before April 15th to ensure uninterrupted service.",
+        "summary":"Domain renewal pending, due by April 15th."
+    },
+    {
+        "email_body":"Dear Nilesh, the system maintenance window is scheduled from 12 AM to 4 AM tomorrow. Expect downtime during this period.",
+        "summary":"System maintenance scheduled from 12 AM to 4 AM tomorrow."
+    },
+    {
+        "email_body":"Your payment receipt for $1,200 has been processed successfully. Thank you for your business.",
+        "summary":"Payment of $1,200 processed successfully."
+    },
+    {
+        "email_body":"Nilesh, your timesheet for the week ending April 10th is missing. Please submit it by EOD today.",
+        "summary":"Missing timesheet for April 10th, submit by EOD."
+    },
+    {
+        "email_body":"We noticed suspicious activity in your account. Please verify your login immediately to secure your account.",
+        "summary":"Suspicious activity detected, verify your login."
+    },
+    {
+        "email_body":"Just a heads-up, the marketing team will be running email campaigns starting this Thursday. Expect higher email volume.",
+        "summary":"Marketing campaigns starting Thursday, expect more emails."
+    },
+    {
+        "email_body":"Dear Nilesh, the expense report has been approved and processed. Reimbursement will be made by the end of this week.",
+        "summary":"Expense report approved, reimbursement by week's end."
+    },
+    {
+        "email_body":"Reminder: The team standup is now moved to 9:30 AM every Monday. Please update your calendar.",
+        "summary":"Weekly team standup moved to 9:30 AM on Mondays."
+    },
+    {
+        "email_body":"Hi Nilesh, please find attached the agreement for the upcoming contract. Review and sign at your earliest convenience.",
+        "summary":"Agreement attached for new contract, review and sign."
+    },
+    {
+        "email_body":"This is to inform you that the new leave policy will be effective from May 1st. Please go through the details.",
+        "summary":"New leave policy effective May 1st."
+    },
+    {
+        "email_body":"Dear Nilesh, your shipment has been delayed due to unforeseen circumstances. We apologize for the inconvenience.",
+        "summary":"Shipment delayed due to unforeseen circumstances."
+    },
+    {
+        "email_body":"Hello, please find your monthly bank statement attached. Reach out if you notice any discrepancies.",
+        "summary":"Monthly bank statement attached."
+    },
+    {
+        "email_body":"Nilesh, your requested software license has been issued. The key is included in the attached file.",
+        "summary":"Software license issued, key attached."
+    },
+    {
+        "email_body":"We're upgrading our servers on Sunday. There may be short service interruptions between 1 AM and 3 AM.",
+        "summary":"Server upgrade Sunday, possible outages 1\u20133 AM."
+    },
+    {
+        "email_body":"Your interview is scheduled for Wednesday at 11 AM via Zoom. The link is attached.",
+        "summary":"Interview scheduled Wednesday at 11 AM on Zoom."
+    },
+    {
+        "email_body":"Reminder: Team building activity at the park this Friday at 4 PM. Snacks and drinks provided.",
+        "summary":"Team building activity Friday 4 PM at the park."
+    },
+    {
+        "email_body":"Congratulations! Your leave for April 22\u201324 has been approved by your manager.",
+        "summary":"Leave approved for April 22\u201324."
+    },
+    {
+        "email_body":"Hi, your IT ticket #45231 has been resolved. Let us know if you face any more issues.",
+        "summary":"IT ticket #45231 resolved."
+    },
+    {
+        "email_body":"You have a new follower on LinkedIn. View their profile now.",
+        "summary":"Ignore - promotional\/social content."
+    },
+    {
+        "email_body":"Great deals on electronics! Up to 60% off this weekend only!",
+        "summary":"Ignore - advertisement."
+    },
+
+    {
+        "email": "Nilesh, your feedback on the new policy document is required by EOD.",
+        "summary": "Feedback on policy document due by EOD."
+    },
+    {
+        "email": "Reminder: The deadline for submitting your performance review is April 30th.",
+        "summary": "Performance review submission due by April 30th."
+    },
+    {
+        "email": "Hi Nilesh, your LinkedIn profile has been viewed by a recruiter. Check it out!",
+        "summary": "Ignore - promotional\/social content."
+    },
+    {
+        "email": "The server maintenance has been completed successfully. All systems are operational.",
+        "summary": "Server maintenance completed successfully."
+    },
+    {
+        "email": "Don't forget to submit your travel expenses by the end of the week.",
+        "summary": "Travel expenses submission due by end of week."
+    },
+    {
+        "email": "Invoice #67239 is now due. Please make the payment of $420 by April 30th.",
+        "summary": "Invoice #67239 due for $420 by April 30th."
+    },
+    {
+        "email": "Reminder: Your project update is expected by 5 PM today. Please upload it to the shared drive.",
+        "summary": "Project update due by 5 PM today."
+    },
+    {
+        "email": "Hi Nilesh, your subscription has expired. Renew now to continue enjoying premium features!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "Your AWS free tier usage is nearing its monthly limit. Review usage in your dashboard.",
+        "summary": "AWS usage nearing limit, check dashboard."
+    },
+    {
+        "email": "Team, the product launch is scheduled for May 10th. Final checklist will be shared tomorrow.",
+        "summary": "Product launch scheduled for May 10th."
+    },
+    {
+        "email": "New corporate travel policy uploaded. Effective starting next week.",
+        "summary": "New travel policy effective next week."
+    },
+    {
+        "email": "Nilesh, the vendor sent a revised quote for the Q2 services. It's attached for your review.",
+        "summary": "Revised vendor quote for Q2 attached."
+    },
+    {
+        "email": "Congratulations! You\u2019ve been nominated for the Star Employee award this month!",
+        "summary": "Nominated for Star Employee award this month."
+    },
+    {
+        "email": "Dear team, Friday\u2019s client meeting is rescheduled to 3 PM.",
+        "summary": "Client meeting Friday rescheduled to 3 PM."
+    },
+    {
+        "email": "Just in: Get 30% off your next lunch order. Use code LUNCH30!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "The quarterly report has been approved and filed. Thanks for your contribution!",
+        "summary": "Quarterly report approved and filed."
+    },
+    {
+        "email": "Reminder: Please complete the IT compliance training by April 28th.",
+        "summary": "IT compliance training due by April 28th."
+    },
+    {
+        "email": "You were tagged in a Trello card titled 'Client Follow-up Needed'.",
+        "summary": "Tagged in Trello card: 'Client Follow-up Needed'."
+    },
+    {
+        "email": "Nilesh, here\u2019s your April payslip. Reach out to HR if any discrepancy found.",
+        "summary": "April payslip shared."
+    },
+    {
+        "email": "The design team will be presenting the final wireframes on Thursday at 11 AM.",
+        "summary": "Design team presenting final wireframes Thursday at 11 AM."
+    },
+    {
+        "email": "A new comment was added to the Google Doc: 'Marketing Strategy Q3'",
+        "summary": "New comment in 'Marketing Strategy Q3' document."
+    },
+    {
+        "email": "Don't miss out on our weekend sale \u2014 huge discounts on office supplies!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "Dear Nilesh, your Zoom license will expire in 3 days. Please renew.",
+        "summary": "Zoom license expiring in 3 days."
+    },
+    {
+        "email": "Check-in with client Amit was successful. Follow-up meeting scheduled next Monday.",
+        "summary": "Client Amit follow-up meeting next Monday."
+    },
+    {
+        "email": "Please approve the attached expense report by EOD.",
+        "summary": "Expense report approval required by EOD."
+    },
+    {
+        "email": "Nilesh, your shift schedule for next week has been finalized.",
+        "summary": "Shift schedule finalized for next week."
+    },
+    {
+        "email": "Hello, you have pending code reviews for PRs #103, #104.",
+        "summary": "Pending code reviews for PRs #103, #104."
+    },
+    {
+        "email": "Office cafeteria will remain closed on Friday due to maintenance.",
+        "summary": "Cafeteria closed Friday for maintenance."
+    },
+    {
+        "email": "Reminder: Biweekly townhall is today at 4 PM on Google Meet.",
+        "summary": "Biweekly townhall today at 4 PM."
+    },
+    {
+        "email": "The hiring panel has shortlisted 3 candidates for the marketing role.",
+        "summary": "3 candidates shortlisted for marketing role."
+    },
+    {
+        "email": "Action required: Approve the budget request by April 26th.",
+        "summary": "Budget approval needed by April 26th."
+    },
+    {
+        "email": "Free webinar on AI tools this Saturday. Sign up now!",
+        "summary": "Ignore - promotional."
+    },
+    {
+        "email": "Slack integration error reported in automation bot #54.",
+        "summary": "Slack bot #54 error reported."
+    },
+    {
+        "email": "Please find attached the MoM (Minutes of Meeting) for today\u2019s design call.",
+        "summary": "MoM from today's design call attached."
+    },
+    {
+        "email": "You\u2019ve earned 150 reward points from your office pantry purchases.",
+        "summary": "Ignore - non-work-related info."
+    },
+    {
+        "email": "Nilesh, your feedback on the new policy document is required by EOD.",
+        "summary": "Feedback on policy document due by EOD."
+    },
+    {
+        "email": "Reminder: The deadline for submitting your performance review is April 30th.",
+        "summary": "Performance review submission due by April 30th."
+    },
+    {
+        "email": "Hi Nilesh, your LinkedIn profile has been viewed by a recruiter. Check it out!",
+        "summary": "Ignore - promotional\/social content."
+    },
+    {
+        "email": "The server maintenance has been completed successfully. All systems are operational.",
+        "summary": "Server maintenance completed successfully."
+    },
+
+    {
+        "email": "Nilesh, your feedback on the new policy document is required by EOD.",
+        "summary": "Feedback on policy document due by EOD."
+    },
+    {
+        "email": "Reminder: The deadline for submitting your performance review is April 30th.",
+        "summary": "Performance review submission due by April 30th."
+    },
+    {
+        "email": "Hi Nilesh, your LinkedIn profile has been viewed by a recruiter. Check it out!",
+        "summary": "Ignore - promotional\/social content."
+    },
+    {
+        "email": "The server maintenance has been completed successfully. All systems are operational.",
+        "summary": "Server maintenance completed successfully."
+    },
+
+    {
+        "email": "Don't forget to submit your travel expenses by the end of the week.",
+        "summary": "Travel expenses submission due by end of week."
+    },
+    {
+        "email": "Invoice #67239 is now due. Please make the payment of $420 by April 30th.",
+        "summary": "Invoice #67239 due for $420 by April 30th."
+    },
+    {
+        "email": "Reminder: Your project update is expected by 5 PM today. Please upload it to the shared drive.",
+        "summary": "Project update due by 5 PM today."
+    },
+    {
+        "email": "Hi Nilesh, your subscription has expired. Renew now to continue enjoying premium features!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "Your AWS free tier usage is nearing its monthly limit. Review usage in your dashboard.",
+        "summary": "AWS usage nearing limit, check dashboard."
+    },
+    {
+        "email": "Team, the product launch is scheduled for May 10th. Final checklist will be shared tomorrow.",
+        "summary": "Product launch scheduled for May 10th."
+    },
+    {
+        "email": "New corporate travel policy uploaded. Effective starting next week.",
+        "summary": "New travel policy effective next week."
+    },
+    {
+        "email": "Nilesh, the vendor sent a revised quote for the Q2 services. It's attached for your review.",
+        "summary": "Revised vendor quote for Q2 attached."
+    },
+    {
+        "email": "Congratulations! You\u2019ve been nominated for the Star Employee award this month!",
+        "summary": "Nominated for Star Employee award this month."
+    },
+    {
+        "email": "Dear team, Friday\u2019s client meeting is rescheduled to 3 PM.",
+        "summary": "Client meeting Friday rescheduled to 3 PM."
+    },
+    {
+        "email": "Just in: Get 30% off your next lunch order. Use code LUNCH30!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "The quarterly report has been approved and filed. Thanks for your contribution!",
+        "summary": "Quarterly report approved and filed."
+    },
+    {
+        "email": "Reminder: Please complete the IT compliance training by April 28th.",
+        "summary": "IT compliance training due by April 28th."
+    },
+    {
+        "email": "You were tagged in a Trello card titled 'Client Follow-up Needed'.",
+        "summary": "Tagged in Trello card: 'Client Follow-up Needed'."
+    },
+    {
+        "email": "Nilesh, here\u2019s your April payslip. Reach out to HR if any discrepancy found.",
+        "summary": "April payslip shared."
+    },
+    {
+        "email": "The design team will be presenting the final wireframes on Thursday at 11 AM.",
+        "summary": "Design team presenting final wireframes Thursday at 11 AM."
+    },
+    {
+        "email": "A new comment was added to the Google Doc: 'Marketing Strategy Q3'",
+        "summary": "New comment in 'Marketing Strategy Q3' document."
+    },
+    {
+        "email": "Don't miss out on our weekend sale \u2014 huge discounts on office supplies!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "Dear Nilesh, your Zoom license will expire in 3 days. Please renew.",
+        "summary": "Zoom license expiring in 3 days."
+    },
+    {
+        "email": "Check-in with client Amit was successful. Follow-up meeting scheduled next Monday.",
+        "summary": "Client Amit follow-up meeting next Monday."
+    },
+
+    {
+        "email": "Your AWS free tier usage is nearing its monthly limit. Review usage in your dashboard.",
+        "summary": "AWS usage nearing limit, check dashboard."
+    },
+    {
+        "email": "Team, the product launch is scheduled for May 10th. Final checklist will be shared tomorrow.",
+        "summary": "Product launch scheduled for May 10th."
+    },
+    {
+        "email": "New corporate travel policy uploaded. Effective starting next week.",
+        "summary": "New travel policy effective next week."
+    },
+    {
+        "email": "Nilesh, the vendor sent a revised quote for the Q2 services. It's attached for your review.",
+        "summary": "Revised vendor quote for Q2 attached."
+    },
+    {
+        "email": "Congratulations! You\u2019ve been nominated for the Star Employee award this month!",
+        "summary": "Nominated for Star Employee award this month."
+    },
+    {
+        "email": "Dear team, Friday\u2019s client meeting is rescheduled to 3 PM.",
+        "summary": "Client meeting Friday rescheduled to 3 PM."
+    },
+    {
+        "email": "Just in: Get 30% off your next lunch order. Use code LUNCH30!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "The quarterly report has been approved and filed. Thanks for your contribution!",
+        "summary": "Quarterly report approved and filed."
+    },
+    {
+        "email": "Reminder: Please complete the IT compliance training by April 28th.",
+        "summary": "IT compliance training due by April 28th."
+    },
+    {
+        "email": "You were tagged in a Trello card titled 'Client Follow-up Needed'.",
+        "summary": "Tagged in Trello card: 'Client Follow-up Needed'."
+    },
+    {
+        "email": "Nilesh, here\u2019s your April payslip. Reach out to HR if any discrepancy found.",
+        "summary": "April payslip shared."
+    },
+    {
+        "email": "The design team will be presenting the final wireframes on Thursday at 11 AM.",
+        "summary": "Design team presenting final wireframes Thursday at 11 AM."
+    },
+    {
+        "email": "A new comment was added to the Google Doc: 'Marketing Strategy Q3'",
+        "summary": "New comment in 'Marketing Strategy Q3' document."
+    },
+    {
+        "email": "Don't miss out on our weekend sale \u2014 huge discounts on office supplies!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "Dear Nilesh, your Zoom license will expire in 3 days. Please renew.",
+        "summary": "Zoom license expiring in 3 days."
+    },
+    {
+        "email": "Check-in with client Amit was successful. Follow-up meeting scheduled next Monday.",
+        "summary": "Client Amit follow-up meeting next Monday."
+    },
+
+    {
+        "email": "Congratulations! You\u2019ve been nominated for the Star Employee award this month!",
+        "summary": "Nominated for Star Employee award this month."
+    },
+    {
+        "email": "Dear team, Friday\u2019s client meeting is rescheduled to 3 PM.",
+        "summary": "Client meeting Friday rescheduled to 3 PM."
+    },
+    {
+        "email": "Just in: Get 30% off your next lunch order. Use code LUNCH30!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "The quarterly report has been approved and filed. Thanks for your contribution!",
+        "summary": "Quarterly report approved and filed."
+    },
+    {
+        "email": "Reminder: Please complete the IT compliance training by April 28th.",
+        "summary": "IT compliance training due by April 28th."
+    },
+    {
+        "email": "You were tagged in a Trello card titled 'Client Follow-up Needed'.",
+        "summary": "Tagged in Trello card: 'Client Follow-up Needed'."
+    },
+    {
+        "email": "Nilesh, here\u2019s your April payslip. Reach out to HR if any discrepancy found.",
+        "summary": "April payslip shared."
+    },
+    {
+        "email": "The design team will be presenting the final wireframes on Thursday at 11 AM.",
+        "summary": "Design team presenting final wireframes Thursday at 11 AM."
+    },
+    {
+        "email": "A new comment was added to the Google Doc: 'Marketing Strategy Q3'",
+        "summary": "New comment in 'Marketing Strategy Q3' document."
+    },
+    {
+        "email": "Don't miss out on our weekend sale \u2014 huge discounts on office supplies!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "Dear Nilesh, your Zoom license will expire in 3 days. Please renew.",
+        "summary": "Zoom license expiring in 3 days."
+    },
+    {
+        "email": "Check-in with client Amit was successful. Follow-up meeting scheduled next Monday.",
+        "summary": "Client Amit follow-up meeting next Monday."
+    },
+    {
+        "email": "Please approve the attached expense report by EOD.",
+        "summary": "Expense report approval required by EOD."
+    },
+    {
+        "email": "Nilesh, your shift schedule for next week has been finalized.",
+        "summary": "Shift schedule finalized for next week."
+    },
+    {
+        "email": "Hello, you have pending code reviews for PRs #103, #104.",
+        "summary": "Pending code reviews for PRs #103, #104."
+    },
+    {
+        "email": "Office cafeteria will remain closed on Friday due to maintenance.",
+        "summary": "Cafeteria closed Friday for maintenance."
+    },
+    {
+        "email": "Reminder: Biweekly townhall is today at 4 PM on Google Meet.",
+        "summary": "Biweekly townhall today at 4 PM."
+    },
+    {
+        "email": "The hiring panel has shortlisted 3 candidates for the marketing role.",
+        "summary": "3 candidates shortlisted for marketing role."
+    },
+    {
+        "email": "Action required: Approve the budget request by April 26th.",
+        "summary": "Budget approval needed by April 26th."
+    },
+    {
+        "email": "Free webinar on AI tools this Saturday. Sign up now!",
+        "summary": "Ignore - promotional."
+    },
+    {
+        "email": "Slack integration error reported in automation bot #54.",
+        "summary": "Slack bot #54 error reported."
+    },
+    {
+        "email": "Please find attached the MoM (Minutes of Meeting) for today\u2019s design call.",
+        "summary": "MoM from today's design call attached."
+    },
+    {
+        "email": "You\u2019ve earned 150 reward points from your office pantry purchases.",
+        "summary": "Ignore - non-work-related info."
+    },
+    {
+        "email": "Nilesh, your feedback on the new policy document is required by EOD.",
+        "summary": "Feedback on policy document due by EOD."
+    },
+    {
+        "email": "Reminder: The deadline for submitting your performance review is April 30th.",
+        "summary": "Performance review submission due by April 30th."
+    },
+    {
+        "email": "Hi Nilesh, your LinkedIn profile has been viewed by a recruiter. Check it out!",
+        "summary": "Ignore - promotional\/social content."
+    },
+    {
+        "email": "The server maintenance has been completed successfully. All systems are operational.",
+        "summary": "Server maintenance completed successfully."
+    },
+    {
+        "email": "Don't forget to submit your travel expenses by the end of the week.",
+        "summary": "Travel expenses submission due by end of week."
+    },
+    {
+        "email": "Invoice #67239 is now due. Please make the payment of $420 by April 30th.",
+        "summary": "Invoice #67239 due for $420 by April 30th."
+    },
+    {
+        "email": "Reminder: Your project update is expected by 5 PM today. Please upload it to the shared drive.",
+        "summary": "Project update due by 5 PM today."
+    },
+    {
+        "email": "Hi Nilesh, your subscription has expired. Renew now to continue enjoying premium features!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "Your AWS free tier usage is nearing its monthly limit. Review usage in your dashboard.",
+        "summary": "AWS usage nearing limit, check dashboard."
+    },
+    {
+        "email": "Team, the product launch is scheduled for May 10th. Final checklist will be shared tomorrow.",
+        "summary": "Product launch scheduled for May 10th."
+    },
+    {
+        "email": "New corporate travel policy uploaded. Effective starting next week.",
+        "summary": "New travel policy effective next week."
+    },
+    {
+        "email": "Nilesh, the vendor sent a revised quote for the Q2 services. It's attached for your review.",
+        "summary": "Revised vendor quote for Q2 attached."
+    },
+    {
+        "email": "Congratulations! You\u2019ve been nominated for the Star Employee award this month!",
+        "summary": "Nominated for Star Employee award this month."
+    },
+    {
+        "email": "Dear team, Friday\u2019s client meeting is rescheduled to 3 PM.",
+        "summary": "Client meeting Friday rescheduled to 3 PM."
+    },
+    {
+        "email": "Just in: Get 30% off your next lunch order. Use code LUNCH30!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "The quarterly report has been approved and filed. Thanks for your contribution!",
+        "summary": "Quarterly report approved and filed."
+    },
+    {
+        "email": "Reminder: Please complete the IT compliance training by April 28th.",
+        "summary": "IT compliance training due by April 28th."
+    },
+    {
+        "email": "You were tagged in a Trello card titled 'Client Follow-up Needed'.",
+        "summary": "Tagged in Trello card: 'Client Follow-up Needed'."
+    },
+    {
+        "email": "Nilesh, here\u2019s your April payslip. Reach out to HR if any discrepancy found.",
+        "summary": "April payslip shared."
+    },
+    {
+        "email": "The design team will be presenting the final wireframes on Thursday at 11 AM.",
+        "summary": "Design team presenting final wireframes Thursday at 11 AM."
+    },
+    {
+        "email": "A new comment was added to the Google Doc: 'Marketing Strategy Q3'",
+        "summary": "New comment in 'Marketing Strategy Q3' document."
+    },
+    {
+        "email": "Don't miss out on our weekend sale \u2014 huge discounts on office supplies!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "Dear Nilesh, your Zoom license will expire in 3 days. Please renew.",
+        "summary": "Zoom license expiring in 3 days."
+    },
+    {
+        "email": "Check-in with client Amit was successful. Follow-up meeting scheduled next Monday.",
+        "summary": "Client Amit follow-up meeting next Monday."
+    },
+    {
+        "email": "Please approve the attached expense report by EOD.",
+        "summary": "Expense report approval required by EOD."
+    },
+    {
+        "email": "Nilesh, your shift schedule for next week has been finalized.",
+        "summary": "Shift schedule finalized for next week."
+    },
+    {
+        "email": "Hello, you have pending code reviews for PRs #103, #104.",
+        "summary": "Pending code reviews for PRs #103, #104."
+    },
+    {
+        "email": "Office cafeteria will remain closed on Friday due to maintenance.",
+        "summary": "Cafeteria closed Friday for maintenance."
+    },
+    {
+        "email": "Reminder: Biweekly townhall is today at 4 PM on Google Meet.",
+        "summary": "Biweekly townhall today at 4 PM."
+    },
+    {
+        "email": "The hiring panel has shortlisted 3 candidates for the marketing role.",
+        "summary": "3 candidates shortlisted for marketing role."
+    },
+    {
+        "email": "Action required: Approve the budget request by April 26th.",
+        "summary": "Budget approval needed by April 26th."
+    },
+    {
+        "email": "Free webinar on AI tools this Saturday. Sign up now!",
+        "summary": "Ignore - promotional."
+    },
+    {
+        "email": "Slack integration error reported in automation bot #54.",
+        "summary": "Slack bot #54 error reported."
+    },
+    {
+        "email": "Please find attached the MoM (Minutes of Meeting) for today\u2019s design call.",
+        "summary": "MoM from today's design call attached."
+    },
+    {
+        "email": "You\u2019ve earned 150 reward points from your office pantry purchases.",
+        "summary": "Ignore - non-work-related info."
+    },
+    {
+        "email": "Nilesh, your feedback on the new policy document is required by EOD.",
+        "summary": "Feedback on policy document due by EOD."
+    },
+    {
+        "email": "Reminder: The deadline for submitting your performance review is April 30th.",
+        "summary": "Performance review submission due by April 30th."
+    },
+    {
+        "email": "Hi Nilesh, your LinkedIn profile has been viewed by a recruiter. Check it out!",
+        "summary": "Ignore - promotional\/social content."
+    },
+    {
+        "email": "The server maintenance has been completed successfully. All systems are operational.",
+        "summary": "Server maintenance completed successfully."
+    },
+    {
+        "email": "Don't forget to submit your travel expenses by the end of the week.",
+        "summary": "Travel expenses submission due by end of week."
+    },
+    {
+        "email": "Invoice #67239 is now due. Please make the payment of $420 by April 30th.",
+        "summary": "Invoice #67239 due for $420 by April 30th."
+    },
+    {
+        "email": "Reminder: Your project update is expected by 5 PM today. Please upload it to the shared drive.",
+        "summary": "Project update due by 5 PM today."
+    },
+    {
+        "email": "Hi Nilesh, your subscription has expired. Renew now to continue enjoying premium features!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "Your AWS free tier usage is nearing its monthly limit. Review usage in your dashboard.",
+        "summary": "AWS usage nearing limit, check dashboard."
+    },
+    {
+        "email": "Team, the product launch is scheduled for May 10th. Final checklist will be shared tomorrow.",
+        "summary": "Product launch scheduled for May 10th."
+    },
+    {
+        "email": "New corporate travel policy uploaded. Effective starting next week.",
+        "summary": "New travel policy effective next week."
+    },
+    {
+        "email": "Nilesh, the vendor sent a revised quote for the Q2 services. It's attached for your review.",
+        "summary": "Revised vendor quote for Q2 attached."
+    },
+    {
+        "email": "Congratulations! You\u2019ve been nominated for the Star Employee award this month!",
+        "summary": "Nominated for Star Employee award this month."
+    },
+    {
+        "email": "Dear team, Friday\u2019s client meeting is rescheduled to 3 PM.",
+        "summary": "Client meeting Friday rescheduled to 3 PM."
+    },
+    {
+        "email": "Just in: Get 30% off your next lunch order. Use code LUNCH30!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "The quarterly report has been approved and filed. Thanks for your contribution!",
+        "summary": "Quarterly report approved and filed."
+    },
+    {
+        "email": "Team, the product launch is scheduled for May 10th. Final checklist will be shared tomorrow.",
+        "summary": "Product launch scheduled for May 10th."
+    },
+    {
+        "email": "New corporate travel policy uploaded. Effective starting next week.",
+        "summary": "New travel policy effective next week."
+    },
+    {
+        "email": "Nilesh, the vendor sent a revised quote for the Q2 services. It's attached for your review.",
+        "summary": "Revised vendor quote for Q2 attached."
+    },
+    {
+        "email": "Congratulations! You\u2019ve been nominated for the Star Employee award this month!",
+        "summary": "Nominated for Star Employee award this month."
+    },
+    {
+        "email": "Dear team, Friday\u2019s client meeting is rescheduled to 3 PM.",
+        "summary": "Client meeting Friday rescheduled to 3 PM."
+    },
+    {
+        "email": "Just in: Get 30% off your next lunch order. Use code LUNCH30!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "The quarterly report has been approved and filed. Thanks for your contribution!",
+        "summary": "Quarterly report approved and filed."
+    },
+
+    {
+        "email": "Reminder: Please complete the IT compliance training by April 28th.",
+        "summary": "IT compliance training due by April 28th."
+    },
+    {
+        "email": "You were tagged in a Trello card titled 'Client Follow-up Needed'.",
+        "summary": "Tagged in Trello card: 'Client Follow-up Needed'."
+    },
+    {
+        "email": "Nilesh, here\u2019s your April payslip. Reach out to HR if any discrepancy found.",
+        "summary": "April payslip shared."
+    },
+    {
+        "email": "The design team will be presenting the final wireframes on Thursday at 11 AM.",
+        "summary": "Design team presenting final wireframes Thursday at 11 AM."
+    },
+    {
+        "email": "A new comment was added to the Google Doc: 'Marketing Strategy Q3'",
+        "summary": "New comment in 'Marketing Strategy Q3' document."
+    },
+    {
+        "email": "Don't miss out on our weekend sale \u2014 huge discounts on office supplies!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "Dear Nilesh, your Zoom license will expire in 3 days. Please renew.",
+        "summary": "Zoom license expiring in 3 days."
+    },
+    {
+        "email": "Check-in with client Amit was successful. Follow-up meeting scheduled next Monday.",
+        "summary": "Client Amit follow-up meeting next Monday."
+    },
+
+    {
+        "email": "A new comment was added to the Google Doc: 'Marketing Strategy Q3'",
+        "summary": "New comment in 'Marketing Strategy Q3' document."
+    },
+    {
+        "email": "Don't miss out on our weekend sale \u2014 huge discounts on office supplies!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "Dear Nilesh, your Zoom license will expire in 3 days. Please renew.",
+        "summary": "Zoom license expiring in 3 days."
+    },
+    {
+        "email": "Check-in with client Amit was successful. Follow-up meeting scheduled next Monday.",
+        "summary": "Client Amit follow-up meeting next Monday."
+    },
+
+    {
+        "email": "Please approve the attached expense report by EOD.",
+        "summary": "Expense report approval required by EOD."
+    },
+    {
+        "email": "Nilesh, your shift schedule for next week has been finalized.",
+        "summary": "Shift schedule finalized for next week."
+    },
+    {
+        "email": "Hello, you have pending code reviews for PRs #103, #104.",
+        "summary": "Pending code reviews for PRs #103, #104."
+    },
+    {
+        "email": "Office cafeteria will remain closed on Friday due to maintenance.",
+        "summary": "Cafeteria closed Friday for maintenance."
+    },
+    {
+        "email": "Reminder: Biweekly townhall is today at 4 PM on Google Meet.",
+        "summary": "Biweekly townhall today at 4 PM."
+    },
+    {
+        "email": "The hiring panel has shortlisted 3 candidates for the marketing role.",
+        "summary": "3 candidates shortlisted for marketing role."
+    },
+    {
+        "email": "Action required: Approve the budget request by April 26th.",
+        "summary": "Budget approval needed by April 26th."
+    },
+    {
+        "email": "Reminder: Biweekly townhall is today at 4 PM on Google Meet.",
+        "summary": "Biweekly townhall today at 4 PM."
+    },
+    {
+        "email": "The hiring panel has shortlisted 3 candidates for the marketing role.",
+        "summary": "3 candidates shortlisted for marketing role."
+    },
+    {
+        "email": "Action required: Approve the budget request by April 26th.",
+        "summary": "Budget approval needed by April 26th."
+    },
+    {
+        "email": "Free webinar on AI tools this Saturday. Sign up now!",
+        "summary": "Ignore - promotional."
+    },
+    {
+        "email": "Slack integration error reported in automation bot #54.",
+        "summary": "Slack bot #54 error reported."
+    },
+    {
+        "email": "Please find attached the MoM (Minutes of Meeting) for today\u2019s design call.",
+        "summary": "MoM from today's design call attached."
+    },
+    {
+        "email": "You\u2019ve earned 150 reward points from your office pantry purchases.",
+        "summary": "Ignore - non-work-related info."
+    },
+    {
+        "email": "Nilesh, your feedback on the new policy document is required by EOD.",
+        "summary": "Feedback on policy document due by EOD."
+    },
+    {
+        "email": "Reminder: The deadline for submitting your performance review is April 30th.",
+        "summary": "Performance review submission due by April 30th."
+    },
+    {
+        "email": "Hi Nilesh, your LinkedIn profile has been viewed by a recruiter. Check it out!",
+        "summary": "Ignore - promotional\/social content."
+    },
+    {
+        "email": "The server maintenance has been completed successfully. All systems are operational.",
+        "summary": "Server maintenance completed successfully."
+    },
+    {
+        "email": "Don't forget to submit your travel expenses by the end of the week.",
+        "summary": "Travel expenses submission due by end of week."
+    },
+    {
+        "email": "Invoice #67239 is now due. Please make the payment of $420 by April 30th.",
+        "summary": "Invoice #67239 due for $420 by April 30th."
+    },
+    {
+        "email": "Reminder: Your project update is expected by 5 PM today. Please upload it to the shared drive.",
+        "summary": "Project update due by 5 PM today."
+    },
+    {
+        "email": "Hi Nilesh, your subscription has expired. Renew now to continue enjoying premium features!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "Your AWS free tier usage is nearing its monthly limit. Review usage in your dashboard.",
+        "summary": "AWS usage nearing limit, check dashboard."
+    },
+    {
+        "email": "Team, the product launch is scheduled for May 10th. Final checklist will be shared tomorrow.",
+        "summary": "Product launch scheduled for May 10th."
+    },
+    {
+        "email": "New corporate travel policy uploaded. Effective starting next week.",
+        "summary": "New travel policy effective next week."
+    },
+    {
+        "email": "Nilesh, the vendor sent a revised quote for the Q2 services. It's attached for your review.",
+        "summary": "Revised vendor quote for Q2 attached."
+    },
+    {
+        "email": "Congratulations! You\u2019ve been nominated for the Star Employee award this month!",
+        "summary": "Nominated for Star Employee award this month."
+    },
+    {
+        "email": "Dear team, Friday\u2019s client meeting is rescheduled to 3 PM.",
+        "summary": "Client meeting Friday rescheduled to 3 PM."
+    },
+    {
+        "email": "Just in: Get 30% off your next lunch order. Use code LUNCH30!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "The quarterly report has been approved and filed. Thanks for your contribution!",
+        "summary": "Quarterly report approved and filed."
+    },
+    {
+        "email": "Reminder: Please complete the IT compliance training by April 28th.",
+        "summary": "IT compliance training due by April 28th."
+    },
+    {
+        "email": "You were tagged in a Trello card titled 'Client Follow-up Needed'.",
+        "summary": "Tagged in Trello card: 'Client Follow-up Needed'."
+    },
+    {
+        "email": "Nilesh, here\u2019s your April payslip. Reach out to HR if any discrepancy found.",
+        "summary": "April payslip shared."
+    },
+    {
+        "email": "The design team will be presenting the final wireframes on Thursday at 11 AM.",
+        "summary": "Design team presenting final wireframes Thursday at 11 AM."
+    },
+    {
+        "email": "A new comment was added to the Google Doc: 'Marketing Strategy Q3'",
+        "summary": "New comment in 'Marketing Strategy Q3' document."
+    },
+    {
+        "email": "Don't miss out on our weekend sale \u2014 huge discounts on office supplies!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "Dear Nilesh, your Zoom license will expire in 3 days. Please renew.",
+        "summary": "Zoom license expiring in 3 days."
+    },
+    {
+        "email": "Check-in with client Amit was successful. Follow-up meeting scheduled next Monday.",
+        "summary": "Client Amit follow-up meeting next Monday."
+    },
+    {
+        "email": "Please approve the attached expense report by EOD.",
+        "summary": "Expense report approval required by EOD."
+    },
+    {
+        "email": "Nilesh, your shift schedule for next week has been finalized.",
+        "summary": "Shift schedule finalized for next week."
+    },
+    {
+        "email": "Hello, you have pending code reviews for PRs #103, #104.",
+        "summary": "Pending code reviews for PRs #103, #104."
+    },
+    {
+        "email": "Office cafeteria will remain closed on Friday due to maintenance.",
+        "summary": "Cafeteria closed Friday for maintenance."
+    },
+    {
+        "email": "Reminder: Biweekly townhall is today at 4 PM on Google Meet.",
+        "summary": "Biweekly townhall today at 4 PM."
+    },
+    {
+        "email": "The hiring panel has shortlisted 3 candidates for the marketing role.",
+        "summary": "3 candidates shortlisted for marketing role."
+    },
+    {
+        "email": "Action required: Approve the budget request by April 26th.",
+        "summary": "Budget approval needed by April 26th."
+    },
+    {
+        "email": "Free webinar on AI tools this Saturday. Sign up now!",
+        "summary": "Ignore - promotional."
+    },
+    {
+        "email": "Slack integration error reported in automation bot #54.",
+        "summary": "Slack bot #54 error reported."
+    },
+    {
+        "email": "Please find attached the MoM (Minutes of Meeting) for today\u2019s design call.",
+        "summary": "MoM from today's design call attached."
+    },
+    {
+        "email": "You\u2019ve earned 150 reward points from your office pantry purchases.",
+        "summary": "Ignore - non-work-related info."
+    },
+    {
+        "email": "Nilesh, your feedback on the new policy document is required by EOD.",
+        "summary": "Feedback on policy document due by EOD."
+    },
+    {
+        "email": "Reminder: The deadline for submitting your performance review is April 30th.",
+        "summary": "Performance review submission due by April 30th."
+    },
+    {
+        "email": "Hi Nilesh, your LinkedIn profile has been viewed by a recruiter. Check it out!",
+        "summary": "Ignore - promotional\/social content."
+    },
+    {
+        "email": "The server maintenance has been completed successfully. All systems are operational.",
+        "summary": "Server maintenance completed successfully."
+    },
+    {
+        "email": "Don't forget to submit your travel expenses by the end of the week.",
+        "summary": "Travel expenses submission due by end of week."
+    },
+    {
+        "email": "Invoice #67239 is now due. Please make the payment of $420 by April 30th.",
+        "summary": "Invoice #67239 due for $420 by April 30th."
+    },
+    {
+        "email": "Reminder: Your project update is expected by 5 PM today. Please upload it to the shared drive.",
+        "summary": "Project update due by 5 PM today."
+    },
+    {
+        "email": "Hi Nilesh, your subscription has expired. Renew now to continue enjoying premium features!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "Your AWS free tier usage is nearing its monthly limit. Review usage in your dashboard.",
+        "summary": "AWS usage nearing limit, check dashboard."
+    },
+    {
+        "email": "Team, the product launch is scheduled for May 10th. Final checklist will be shared tomorrow.",
+        "summary": "Product launch scheduled for May 10th."
+    },
+    {
+        "email": "New corporate travel policy uploaded. Effective starting next week.",
+        "summary": "New travel policy effective next week."
+    },
+    {
+        "email": "Nilesh, the vendor sent a revised quote for the Q2 services. It's attached for your review.",
+        "summary": "Revised vendor quote for Q2 attached."
+    },
+    {
+        "email": "Congratulations! You\u2019ve been nominated for the Star Employee award this month!",
+        "summary": "Nominated for Star Employee award this month."
+    },
+    {
+        "email": "Dear team, Friday\u2019s client meeting is rescheduled to 3 PM.",
+        "summary": "Client meeting Friday rescheduled to 3 PM."
+    },
+    {
+        "email": "Just in: Get 30% off your next lunch order. Use code LUNCH30!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "The quarterly report has been approved and filed. Thanks for your contribution!",
+        "summary": "Quarterly report approved and filed."
+    },
+    {
+        "email": "Reminder: Please complete the IT compliance training by April 28th.",
+        "summary": "IT compliance training due by April 28th."
+    },
+    {
+        "email": "You were tagged in a Trello card titled 'Client Follow-up Needed'.",
+        "summary": "Tagged in Trello card: 'Client Follow-up Needed'."
+    },
+    {
+        "email": "Nilesh, here\u2019s your April payslip. Reach out to HR if any discrepancy found.",
+        "summary": "April payslip shared."
+    },
+    {
+        "email": "The design team will be presenting the final wireframes on Thursday at 11 AM.",
+        "summary": "Design team presenting final wireframes Thursday at 11 AM."
+    },
+    {
+        "email": "A new comment was added to the Google Doc: 'Marketing Strategy Q3'",
+        "summary": "New comment in 'Marketing Strategy Q3' document."
+    },
+    {
+        "email": "Don't miss out on our weekend sale \u2014 huge discounts on office supplies!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "Dear Nilesh, your Zoom license will expire in 3 days. Please renew.",
+        "summary": "Zoom license expiring in 3 days."
+    },
+    {
+        "email": "Check-in with client Amit was successful. Follow-up meeting scheduled next Monday.",
+        "summary": "Client Amit follow-up meeting next Monday."
+    },
+    {
+        "email": "Please approve the attached expense report by EOD.",
+        "summary": "Expense report approval required by EOD."
+    },
+    {
+        "email": "Nilesh, your shift schedule for next week has been finalized.",
+        "summary": "Shift schedule finalized for next week."
+    },
+    {
+        "email": "Hello, you have pending code reviews for PRs #103, #104.",
+        "summary": "Pending code reviews for PRs #103, #104."
+    },
+    {
+        "email": "Office cafeteria will remain closed on Friday due to maintenance.",
+        "summary": "Cafeteria closed Friday for maintenance."
+    },
+    {
+        "email": "Reminder: Biweekly townhall is today at 4 PM on Google Meet.",
+        "summary": "Biweekly townhall today at 4 PM."
+    },
+    {
+        "email": "The hiring panel has shortlisted 3 candidates for the marketing role.",
+        "summary": "3 candidates shortlisted for marketing role."
+    },
+    {
+        "email": "Action required: Approve the budget request by April 26th.",
+        "summary": "Budget approval needed by April 26th."
+    },
+    {
+        "email": "Free webinar on AI tools this Saturday. Sign up now!",
+        "summary": "Ignore - promotional."
+    },
+    {
+        "email": "Slack integration error reported in automation bot #54.",
+        "summary": "Slack bot #54 error reported."
+    },
+    {
+        "email": "Please find attached the MoM (Minutes of Meeting) for today\u2019s design call.",
+        "summary": "MoM from today's design call attached."
+    },
+    {
+        "email": "You\u2019ve earned 150 reward points from your office pantry purchases.",
+        "summary": "Ignore - non-work-related info."
+    },
+    {
+        "email": "Nilesh, your feedback on the new policy document is required by EOD.",
+        "summary": "Feedback on policy document due by EOD."
+    },
+    {
+        "email": "Reminder: The deadline for submitting your performance review is April 30th.",
+        "summary": "Performance review submission due by April 30th."
+    },
+    {
+        "email": "Hi Nilesh, your LinkedIn profile has been viewed by a recruiter. Check it out!",
+        "summary": "Ignore - promotional\/social content."
+    },
+    {
+        "email": "The server maintenance has been completed successfully. All systems are operational.",
+        "summary": "Server maintenance completed successfully."
+    },
+    {
+        "email": "Don't forget to submit your travel expenses by the end of the week.",
+        "summary": "Travel expenses submission due by end of week."
+    },
+    {
+        "email": "Invoice #67239 is now due. Please make the payment of $420 by April 30th.",
+        "summary": "Invoice #67239 due for $420 by April 30th."
+    },
+    {
+        "email": "Reminder: Your project update is expected by 5 PM today. Please upload it to the shared drive.",
+        "summary": "Project update due by 5 PM today."
+    },
+    {
+        "email": "Hi Nilesh, your subscription has expired. Renew now to continue enjoying premium features!",
+        "summary": "Ignore - advertisement."
+    },
+    {
+        "email": "Your AWS free tier usage is nearing its monthly limit. Review usage in your dashboard.",
+        "summary": "AWS usage nearing limit, check dashboard."
+    },
+    {
+        "email": "Team, the product launch is scheduled for May 10th. Final checklist will be shared tomorrow.",
+        "summary": "Product launch scheduled for May 10th."
+    },
+    {
+        "email": "New corporate travel policy uploaded. Effective starting next week.",
+        "summary": "New travel policy effective next week."
+    },
+    {
+        "email": "Nilesh, the vendor sent a revised quote for the Q2 services. It's attached for your review.",
+        "summary": "Revised vendor quote for Q2 attached."
+    },
+    {
+      "subject": "Invoice Due",
+      "sender": "billing@company.com",
+      "date": "2025-04-23T10:00:00",
+      "body": "Please find your invoice attached. The payment is due within 7 days.",
+      "summary": "You have a pending invoice of $587.30 due from billing@company.com. Please check and complete the payment by 2025-04-30."
+    },
+    {
+      "subject": "Team Meeting Schedule",
+      "sender": "hr@startuphub.com",
+      "date": "2025-04-23T12:00:00",
+      "body": "Weekly sync-up is scheduled. Agenda: progress and blockers.",
+      "summary": "You have an upcoming meeting titled 'Team Meeting Schedule' scheduled on 2025-04-25 10:30. Please be prepared."
+    },
+    {
+      "subject": "Weekly Update Needed",
+      "sender": "manager@firm.org",
+      "date": "2025-04-23T14:00:00",
+      "body": "Please submit your weekly performance and task updates by EOD Friday.",
+      "summary": "There is a task update regarding 'Weekly Update Needed' that needs your attention."
+    },
+    {
+      "subject": "Monthly Newsletter",
+      "sender": "news@industrydigest.com",
+      "date": "2025-04-23T16:00:00",
+      "body": "Here's what happened this month in the industry...",
+      "summary": "A newsletter from news@industrydigest.com titled 'Monthly Newsletter' was received."
+    },
+    {
+      "subject": "Project Sync-up",
+      "sender": "lead@projectalpha.io",
+      "date": "2025-04-23T18:00:00",
+      "body": "Sync-up call to discuss deliverables and bottlenecks.",
+      "summary": "You have an upcoming meeting titled 'Project Sync-up' scheduled on 2025-04-24 11:00. Please be prepared."
+    },
+    {
+      "subject": "Outstanding Invoice",
+      "sender": "accounts@vendorservices.net",
+      "date": "2025-04-22T09:00:00",
+      "body": "You have not paid the invoice #8923. Kindly pay by this week.",
+      "summary": "You have a pending invoice of $431.85 due from accounts@vendorservices.net. Please check and complete the payment by 2025-04-27."
+    },
+    {
+      "subject": "Client Meeting Invite",
+      "sender": "admin@b2btech.org",
+      "date": "2025-04-22T11:00:00",
+      "body": "You are invited to a meeting with our client to discuss the Q2 roadmap.",
+      "summary": "You have an upcoming meeting titled 'Client Meeting Invite' scheduled on 2025-04-24 14:00. Please be prepared."
+    },
+    {
+      "subject": "Follow-up Required",
+      "sender": "service@crmtools.ai",
+      "date": "2025-04-22T13:00:00",
+      "body": "The client has requested follow-up on ticket ID 49821.",
+      "summary": "There is a task update regarding 'Follow-up Required' that needs your attention."
+    },
+    {
+      "subject": "Industry Updates",
+      "sender": "update@bizinsights.com",
+      "date": "2025-04-22T15:00:00",
+      "body": "Here are this week's trends and updates in your industry sector.",
+      "summary": "A newsletter from update@bizinsights.com titled 'Industry Updates' was received."
+    },
+    {
+      "subject": "Review Meeting",
+      "sender": "director@enterprisegroup.io",
+      "date": "2025-04-22T17:00:00",
+      "body": "We will review the quarterly report and performance KPIs.",
+      "summary": "You have an upcoming meeting titled 'Review Meeting' scheduled on 2025-04-24 09:00. Please be prepared."
+    },
+  
+    {
+      "subject": "Invoice Overdue",
+      "sender": "notify@billingpro.io",
+      "date": "2025-04-21T08:00:00",
+      "body": "Your payment is overdue by 3 days. Kindly settle Invoice #7801 immediately.",
+      "summary": "You have a pending invoice of $648.90 due from notify@billingpro.io. Please check and complete the payment by 2025-04-24."
+    },
+    {
+      "subject": "Complete Your Assignment",
+      "sender": "taskboard@orgsync.net",
+      "date": "2025-04-21T10:00:00",
+      "body": "The deadline for your assigned report is nearing. Submit before Friday.",
+      "summary": "There is a task update regarding 'Complete Your Assignment' that needs your attention."
+    },
+    {
+      "subject": "Product News",
+      "sender": "info@softwaresuite.com",
+      "date": "2025-04-21T12:00:00",
+      "body": "We're launching a new feature this month. Check out what's new!",
+      "summary": "A newsletter from info@softwaresuite.com titled 'Product News' was received."
+    },
+    {
+      "subject": "Pending Task",
+      "sender": "supervisor@workflowapps.org",
+      "date": "2025-04-21T14:00:00",
+      "body": "Task ID 1423 is pending. Update status or mark complete.",
+      "summary": "There is a task update regarding 'Pending Task' that needs your attention."
+    },
+    {
+      "subject": "Project Kick-off",
+      "sender": "manager@clienthub.io",
+      "date": "2025-04-21T16:00:00",
+      "body": "Join the Zoom call to discuss the scope of the new project.",
+      "summary": "You have an upcoming meeting titled 'Project Kick-off' scheduled on 2025-04-23 15:00. Please be prepared."
+    },
+    {
+      "subject": "Payment Reminder",
+      "sender": "noreply@onlinepay.in",
+      "date": "2025-04-20T08:00:00",
+      "body": "Reminder to pay your invoice #3421 before April 25th.",
+      "summary": "You have a pending invoice of $213.75 due from noreply@onlinepay.in. Please check and complete the payment by 2025-04-25."
+    },
+    {
+      "subject": "Team Collaboration Review",
+      "sender": "collab@remotely.io",
+      "date": "2025-04-20T09:30:00",
+      "body": "Review team feedback and complete the collaboration form.",
+      "summary": "There is a task update regarding 'Team Collaboration Review' that needs your attention."
+    },
+    {
+      "subject": "Your Weekly Digest",
+      "sender": "digest@cloudupdates.com",
+      "date": "2025-04-20T11:00:00",
+      "body": "Explore this week's most popular business insights and guides.",
+      "summary": "A newsletter from digest@cloudupdates.com titled 'Your Weekly Digest' was received."
+    },
+    {
+      "subject": "Design Feedback Call",
+      "sender": "uxlead@designsprint.io",
+      "date": "2025-04-20T13:00:00",
+      "body": "Join the feedback session for the latest UI prototypes.",
+      "summary": "You have an upcoming meeting titled 'Design Feedback Call' scheduled on 2025-04-23 16:00. Please be prepared."
+    },
+
+
+    {
+      "subject": "Quarterly Update Submission",
+      "sender": "pm@trackboard.com",
+      "date": "2025-04-20T15:00:00",
+      "body": "Q2 report submission deadline is Friday EOD. Format is attached.",
+      "summary": "There is a task update regarding 'Quarterly Update Submission' that needs your attention."
+    },
+    {
+      "subject": "Pending Reimbursement",
+      "sender": "finance@corpdomain.com",
+      "date": "2025-04-19T10:00:00",
+      "body": "Please upload your receipts for the March travel reimbursement.",
+      "summary": "There is a finance-related task regarding 'Pending Reimbursement' requiring your receipts submission."
+    },
+    {
+      "subject": "Invoice Reminder #9812",
+      "sender": "invoices@paytrackers.org",
+      "date": "2025-04-19T11:00:00",
+      "body": "Just a reminder that Invoice #9812 is due tomorrow.",
+      "summary": "You have a pending invoice of $310.00 due from invoices@paytrackers.org. Due date: 2025-04-20."
+    },
+    {
+      "subject": "Staff Training - Mandatory",
+      "sender": "training@corpalerts.com",
+      "date": "2025-04-19T12:00:00",
+      "body": "This Friday's training is mandatory. Topic: Cybersecurity awareness.",
+      "summary": "You have a mandatory training session titled 'Staff Training - Mandatory' scheduled on 2025-04-25."
+    },
+    {
+      "subject": "Marketing Report Review",
+      "sender": "mktg@brandpulse.ai",
+      "date": "2025-04-19T13:00:00",
+      "body": "Please review Q1's marketing performance deck by EOD Thursday.",
+      "summary": "There is a report review task for 'Marketing Report Review' due this week."
+    },
+    {
+      "subject": "System Maintenance",
+      "sender": "it@techsupport.net",
+      "date": "2025-04-19T14:00:00",
+      "body": "Scheduled downtime this weekend. Access may be limited.",
+      "summary": "System maintenance planned. Expect downtime during the weekend as per the IT department."
+    },
+    {
+      "subject": "Expense Claim Follow-Up",
+      "sender": "hr@claimportal.com",
+      "date": "2025-04-19T15:00:00",
+      "body": "Your recent expense claim is under review. Awaiting approval.",
+      "summary": "Finance department is reviewing your expense claim. Await final approval."
+    },
+    {
+      "subject": "Ad Campaign Brief",
+      "sender": "ads@mediapulse.io",
+      "date": "2025-04-19T16:00:00",
+      "body": "Here's the campaign brief. Creative assets are due by Monday.",
+      "summary": "You have a pending task to review and contribute to the 'Ad Campaign Brief'."
+    },
+    {
+      "subject": "Upcoming Leave Policy Update",
+      "sender": "hr@workplace.org",
+      "date": "2025-04-19T17:00:00",
+      "body": "We're making updates to the leave policy starting next month.",
+      "summary": "A policy update titled 'Upcoming Leave Policy Update' will go into effect next month."
+    },
+    {
+      "subject": "Task Overdue: UI Revamp",
+      "sender": "pm@uxmanager.com",
+      "date": "2025-04-18T09:00:00",
+      "body": "The UI revamp task deadline has passed. Please update ASAP.",
+      "summary": "You have an overdue task titled 'UI Revamp' that needs immediate action."
+    },
+    {
+      "subject": "Weekly Standup Notes",
+      "sender": "scrum@agiletools.net",
+      "date": "2025-04-18T10:00:00",
+      "body": "Here are the minutes of this week's stand-up meeting.",
+      "summary": "Meeting notes for 'Weekly Standup' shared. Review and align with next tasks."
+    },
+    {
+      "subject": "Partner Meeting Request",
+      "sender": "admin@bizlink.com",
+      "date": "2025-04-18T11:00:00",
+      "body": "Partner from XYZ Corp has requested a meeting this week.",
+      "summary": "You have a potential partner meeting request pending scheduling."
+    },
+    {
+      "subject": "Performance Review Reminder",
+      "sender": "hr@peoplefirst.ai",
+      "date": "2025-04-18T12:00:00",
+      "body": "Your Q1 review discussion is scheduled this Thursday.",
+      "summary": "A performance review meeting is scheduled this Thursday. Please prepare."
+    },
+    {
+      "subject": "Newsletter: Tech Stack Trends",
+      "sender": "newsletter@techreviewer.com",
+      "date": "2025-04-18T13:00:00",
+      "body": "Here’s what’s new in frameworks, cloud, and DevOps tools.",
+      "summary": "A newsletter titled 'Tech Stack Trends' received from techreviewer.com."
+    },
+    {
+      "subject": "Client Feedback Received",
+      "sender": "support@clientecho.net",
+      "date": "2025-04-18T14:00:00",
+      "body": "Feedback on the recent demo was received. Please review.",
+      "summary": "You received new feedback from the client. Review and take action if necessary."
+    },
+    {
+      "subject": "Data Migration Schedule",
+      "sender": "infra@cloudops.io",
+      "date": "2025-04-18T15:00:00",
+      "body": "Migration will start on Saturday, expected downtime is 2 hours.",
+      "summary": "Cloud infrastructure migration scheduled for Saturday. Expect downtime."
+    },
+    {
+      "subject": "Legal Compliance Alert",
+      "sender": "compliance@legitcheck.com",
+      "date": "2025-04-18T16:00:00",
+      "body": "New regulatory updates may affect data policies.",
+      "summary": "Review new compliance changes that may affect data policy."
+    },
+    {
+      "subject": "Overdue Task Alert",
+      "sender": "tracker@taskflow.ai",
+      "date": "2025-04-18T17:00:00",
+      "body": "Reminder: Task #554 is overdue since Monday.",
+      "summary": "Task #554 is overdue. Please update or complete it immediately."
+    },
+    {
+      "subject": "Your Attendance This Month",
+      "sender": "hrsys@punchin.io",
+      "date": "2025-04-18T18:00:00",
+      "body": "Here is a report of your attendance for April.",
+      "summary": "Attendance report for April received. Please verify records."
+    },
+    {
+      "subject": "Upcoming Webinar: Productivity Hacks",
+      "sender": "events@workskills.net",
+      "date": "2025-04-17T09:00:00",
+      "body": "You're invited to a webinar this Friday on workplace productivity.",
+      "summary": "Optional webinar titled 'Productivity Hacks' is scheduled Friday."
+    },
+    {
+      "subject": "Invoice Payment Confirmed",
+      "sender": "accounts@ecommerceco.in",
+      "date": "2025-04-17T10:00:00",
+      "body": "Thank you for paying Invoice #10245.",
+      "summary": "Payment for invoice #10245 has been confirmed. No action needed."
+    },
+
+    {
+      "subject": "New Task Assigned: Backend Refactoring",
+      "sender": "pm@devteam.io",
+      "date": "2025-04-17T11:00:00",
+      "body": "You have been assigned a new task related to backend refactoring. Deadline is April 25th.",
+      "summary": "New task assigned for backend refactoring. Deadline: April 25th."
+    },
+    {
+      "subject": "Reminder: NDA Expiry",
+      "sender": "legal@corpsecure.com",
+      "date": "2025-04-17T12:00:00",
+      "body": "Your signed NDA with Project Phoenix expires this month. Please review.",
+      "summary": "NDA for Project Phoenix is expiring soon. Legal team recommends review."
+    },
+    {
+      "subject": "Weekly Performance Dashboard",
+      "sender": "analytics@insightly.co",
+      "date": "2025-04-17T13:00:00",
+      "body": "Here’s your team’s performance dashboard for this week.",
+      "summary": "Weekly performance metrics have been shared. Review for insights."
+    },
+    {
+      "subject": "Ad Spend Report - March",
+      "sender": "ads@camptrack.ai",
+      "date": "2025-04-17T14:00:00",
+      "body": "Attached is the ad spend and ROI report for March.",
+      "summary": "Review the March ad spend and ROI report sent by CampTrack."
+    },
+    {
+      "subject": "Pending Contract Signature",
+      "sender": "legal@signitup.io",
+      "date": "2025-04-17T15:00:00",
+      "body": "You have a pending signature for the onboarding agreement with vendor ZestInc.",
+      "summary": "Contract signature pending for ZestInc vendor onboarding agreement."
+    },
+    {
+      "subject": "System Downtime - 24th April",
+      "sender": "infra@syswatch.com",
+      "date": "2025-04-17T16:00:00",
+      "body": "Servers will be down for 3 hours on April 24th due to updates.",
+      "summary": "Scheduled system downtime on April 24th for updates."
+    },
+    {
+      "subject": "Campaign Assets Approval",
+      "sender": "marketing@brandgrid.com",
+      "date": "2025-04-17T17:00:00",
+      "body": "Please approve the campaign creatives for next week's launch.",
+      "summary": "Pending task to approve campaign assets before launch."
+    },
+    {
+      "subject": "Timesheet Submission Alert",
+      "sender": "payroll@timesync.co",
+      "date": "2025-04-17T18:00:00",
+      "body": "Reminder: Submit your timesheet for April week 3.",
+      "summary": "Your April week 3 timesheet is pending submission."
+    },
+    {
+      "subject": "Account Verification Required",
+      "sender": "security@corpvault.com",
+      "date": "2025-04-16T09:00:00",
+      "body": "We detected unusual activity. Please verify your login.",
+      "summary": "Security alert: Account verification needed due to unusual login activity."
+    },
+    {
+      "subject": "Service Feedback Request",
+      "sender": "support@helpdeskzone.org",
+      "date": "2025-04-16T10:00:00",
+      "body": "How was your recent support experience? We'd appreciate feedback.",
+      "summary": "Optional: Provide feedback on recent support ticket resolution."
+    },
+    {
+      "subject": "Monthly Budget Report",
+      "sender": "finance@corpbudget.com",
+      "date": "2025-04-16T11:00:00",
+      "body": "Budget analysis for April has been finalized and attached.",
+      "summary": "April monthly budget report is available for review."
+    },
+    {
+      "subject": "Software License Renewal",
+      "sender": "itadmin@toolsuite.io",
+      "date": "2025-04-16T12:00:00",
+      "body": "License for DevTool Suite will expire in 5 days. Renew now.",
+      "summary": "DevTool Suite license expires soon. Renewal required within 5 days."
+    },
+    {
+      "subject": "Leave Request Approved",
+      "sender": "hr@leavemgmt.com",
+      "date": "2025-04-16T13:00:00",
+      "body": "Your leave from April 28th to May 2nd has been approved.",
+      "summary": "Leave request approved for April 28 – May 2."
+    },
+    {
+      "subject": "Annual Policy Acceptance",
+      "sender": "compliance@hrdocs.io",
+      "date": "2025-04-16T14:00:00",
+      "body": "Please sign off on the new workplace policy before April 30th.",
+      "summary": "Pending: Acknowledge and sign updated company policy by April 30th."
+    },
+    {
+      "subject": "Client Onboarding Checklist",
+      "sender": "ops@clientwizard.com",
+      "date": "2025-04-16T15:00:00",
+      "body": "Complete the onboarding checklist for the new client - TechNova Ltd.",
+      "summary": "Onboarding task pending for TechNova Ltd. Checklist to be completed."
+    },
+    {
+      "subject": "Project Milestone Achieved",
+      "sender": "project@milestone.io",
+      "date": "2025-04-16T16:00:00",
+      "body": "Milestone #2 (backend integration) successfully achieved.",
+      "summary": "Backend integration milestone achieved for ongoing project."
+    },
+    {
+      "subject": "Monthly Newsletter",
+      "sender": "news@corpupdates.com",
+      "date": "2025-04-16T17:00:00",
+      "body": "Here’s April’s newsletter. Company wins, culture, tips, and more.",
+      "summary": "Monthly company newsletter received for April."
+    },
+    {
+      "subject": "Client Invoice Dispute",
+      "sender": "billing@invoicematch.com",
+      "date": "2025-04-16T18:00:00",
+      "body": "Client flagged an issue with Invoice #4092. Please review.",
+      "summary": "Dispute reported on Invoice #4092. Action required."
+    },
+    {
+      "subject": "Code Review Required",
+      "sender": "dev@reviewbot.dev",
+      "date": "2025-04-15T09:00:00",
+      "body": "PR #453 is pending review. Assigned to you and DevOps team.",
+      "summary": "Pull Request #453 is awaiting your review."
+    },
+    {
+      "subject": "Sales Team KPI Update",
+      "sender": "sales@kpidash.net",
+      "date": "2025-04-15T10:00:00",
+      "body": "Here’s this week’s sales performance. Top closer: Sara D.",
+      "summary": "Weekly sales KPI update shared by the sales team."
+    },
+    {
+      "subject": "Vendor Quote Expiry",
+      "sender": "vendors@procureit.org",
+      "date": "2025-04-15T11:00:00",
+      "body": "Quote #XR204 from FlexSupply will expire in 3 days.",
+      "summary": "Vendor quote #XR204 is expiring soon. Review or renew."
+    },
+    {
+      "subject": "IT Equipment Allocation",
+      "sender": "assets@techequip.net",
+      "date": "2025-04-15T12:00:00",
+      "body": "Your laptop and monitor request has been processed. Pickup from Desk 12.",
+      "summary": "Requested IT equipment is ready for pickup."
+    },
+    {
+      "subject": "Support SLA Breach",
+      "sender": "monitor@slatracker.io",
+      "date": "2025-04-15T13:00:00",
+      "body": "Ticket #1098 exceeded SLA threshold. Review resolution delay.",
+      "summary": "SLA breached on support ticket #1098. Investigation needed."
+    },
+    {
+      "subject": "Quarterly Strategy Meeting",
+      "sender": "exec@stratcall.com",
+      "date": "2025-04-15T14:00:00",
+      "body": "Strategy call scheduled on Friday at 2 PM. Please attend.",
+      "summary": "Quarterly strategy meeting scheduled for this Friday."
+    },
+    {
+      "subject": "Email Quota Reached",
+      "sender": "sysadmin@webmail.cloud",
+      "date": "2025-04-15T15:00:00",
+      "body": "You’ve reached 95% of your mailbox storage limit.",
+      "summary": "Email quota nearing full capacity. Consider archiving."
+    },
+    {
+      "subject": "Update Your Contact Info",
+      "sender": "directory@orgconnect.io",
+      "date": "2025-04-15T16:00:00",
+      "body": "We’re updating the internal contact list. Verify your details.",
+      "summary": "Update your contact info for internal directory refresh."
+    },
+    {
+      "subject": "Client Proposal Finalized",
+      "sender": "bizdev@closerkit.com",
+      "date": "2025-04-15T17:00:00",
+      "body": "Final proposal for client Greentech approved and sent.",
+      "summary": "Proposal finalized and sent to Greentech."
+    },
+    {
+      "subject": "Retrospective Action Points",
+      "sender": "agile@retroteam.org",
+      "date": "2025-04-15T18:00:00",
+      "body": "Here are action items from the April sprint retrospective.",
+      "summary": "Retrospective notes shared. Action points listed for April sprint."
+    },
+    {
+      "subject": "Leave Balance Alert",
+      "sender": "payroll@workcalc.com",
+      "date": "2025-04-15T19:00:00",
+      "body": "You have 3 days of casual leave remaining for Q2.",
+      "summary": "Casual leave balance: 3 days remaining this quarter."
+    },
+    {
+      "subject": "Cloud Usage Report",
+      "sender": "cloud@usageanalytics.io",
+      "date": "2025-04-15T20:00:00",
+      "body": "Your team consumed 240GB compute resources in April.",
+      "summary": "Cloud usage report for April: 240GB compute consumed."
+    },
+    {
+      "subject": "Weekly Standup Reminder",
+      "sender":  "nileshsanyasi02@gmail.com",
+      "date": "2025-04-15T17:00:00",
+      "body": "Final proposal for client Greentech approved and sent.",
+      "summary": "Proposal finalized and sent to Greentech."
+    },
+    {
+        "subject": "Project Kickoff Meeting Scheduled",
+        "sender": "project.manager@company.com",
+        "date": "2025-04-20T09:00:00",
+        "body": "The kickoff meeting for Project Alpha is scheduled for April 22nd at 10:00 AM in Conference Room B.",
+        "summary": "Project Alpha kickoff meeting set for April 22nd at 10:00 AM."
+      },
+      {
+        "subject": "Monthly Sales Report Available",
+        "sender": "sales@company.com",
+        "date": "2025-04-20T10:30:00",
+        "body": "The sales report for March 2025 is now available in the shared drive under 'Reports/March2025'.",
+        "summary": "March 2025 sales report uploaded to shared drive."
+      },
+      {
+        "subject": "Team Building Activity Reminder",
+        "sender": "hr@company.com",
+        "date": "2025-04-20T11:15:00",
+        "body": "Don't forget the team building activity on April 25th at 3:00 PM in the main auditorium.",
+        "summary": "Team building activity scheduled for April 25th at 3:00 PM."
+      },
+      {
+        "subject": "Client Feedback Received",
+        "sender": "account.manager@company.com",
+        "date": "2025-04-20T12:45:00",
+        "body": "Client XYZ has provided feedback on the recent delivery. Please review the comments in the attached document.",
+        "summary": "Feedback from Client XYZ received; see attached document."
+      },
+      {
+        "subject": "System Maintenance Notification",
+        "sender": "it.support@company.com",
+        "date": "2025-04-20T14:00:00",
+        "body": "Scheduled maintenance will occur on April 23rd from 1:00 AM to 3:00 AM. Services may be intermittently unavailable.",
+        "summary": "System maintenance planned for April 23rd, 1:00–3:00 AM."
+      },
+      {
+        "subject": "New Company Policy Update",
+        "sender": "hr@company.com",
+        "date": "2025-04-20T15:30:00",
+        "body": "Please review the updated remote work policy effective May 1st, 2025, available on the intranet.",
+        "summary": "Updated remote work policy effective May 1st; details on intranet."
+      },
+      {
+        "subject": "Quarterly Performance Reviews",
+        "sender": "hr@company.com",
+        "date": "2025-04-20T16:45:00",
+        "body": "Quarterly performance reviews will be conducted between April 26th and May 2nd. Managers will schedule individual meetings.",
+        "summary": "Performance reviews scheduled for April 26–May 2."
+      },
+      {
+        "subject": "Training Session: Cybersecurity Awareness",
+        "sender": "it.security@company.com",
+        "date": "2025-04-20T17:30:00",
+        "body": "A mandatory cybersecurity awareness training session is scheduled for April 28th at 2:00 PM via Zoom.",
+        "summary": "Mandatory cybersecurity training on April 28th at 2:00 PM."
+      },
+      {
+        "subject": "Invoice #4567 Due Reminder",
+        "sender": "billing@company.com",
+        "date": "2025-04-20T18:15:00",
+        "body": "This is a reminder that Invoice #4567 is due on April 24th. Please ensure timely payment to avoid late fees.",
+        "summary": "Invoice #4567 due on April 24th; prompt payment requested."
+      },
+      {
+        "subject": "Office Renovation Schedule",
+        "sender": "facilities@company.com",
+        "date": "2025-04-20T19:00:00",
+        "body": "Office renovations will commence on April 27th and are expected to complete by May 15th. Temporary workspaces will be provided.",
+        "summary": "Office renovations from April 27th to May 15th; temporary spaces arranged."
+      },
+      {
+        "subject": "Approval for Office Renovation",
+        "sender": "admin@company.com",
+        "date": "2025-04-21T09:30:00",
+        "body": "Please approve the renovation budget for the office building.",
+        "summary": "Renovation budget approval requested."
+      },
+      {
+        "subject": "Monthly Sales Report",
+        "sender": "sales@company.com",
+        "date": "2025-04-21T10:00:00",
+        "body": "The sales report for April is attached for your review.",
+        "summary": "April sales report attached."
+      },
+      {
+        "subject": "Invoice #8976 Due for Payment",
+        "sender": "accounts@company.com",
+        "date": "2025-04-21T10:30:00",
+        "body": "Please process payment for Invoice #8976 by Friday.",
+        "summary": "Payment due for Invoice #8976."
+      },
+      {
+        "subject": "Quarterly Budget Discussion",
+        "sender": "finance@company.com",
+        "date": "2025-04-21T11:00:00",
+        "body": "We need to discuss the Q2 budget next week.",
+        "summary": "Q2 budget discussion scheduled."
+      },
+      {
+        "subject": "Reminder: Server Maintenance",
+        "sender": "it@company.com",
+        "date": "2025-04-21T11:30:00",
+        "body": "Reminder: server maintenance will take place on Friday.",
+        "summary": "Server maintenance scheduled for Friday."
+      },
+      {
+        "subject": "Team Meeting Agenda",
+        "sender": "manager@company.com",
+        "date": "2025-04-21T12:00:00",
+        "body": "The agenda for the team meeting tomorrow is attached.",
+        "summary": "Agenda for tomorrow's meeting attached."
+      },
+      {
+        "subject": "Employee Performance Review",
+        "sender": "hr@company.com",
+        "date": "2025-04-21T12:30:00",
+        "body": "Please complete your employee performance review by the end of the week.",
+        "summary": "Employee performance review deadline approaching."
+      },
+      {
+        "subject": "Urgent: Contract Renewal",
+        "sender": "legal@company.com",
+        "date": "2025-04-21T13:00:00",
+        "body": "The contract for Vendor XYZ is up for renewal. Please review and sign.",
+        "summary": "Contract renewal for Vendor XYZ."
+      },
+      {
+        "subject": "New Project Proposal",
+        "sender": "project_manager@company.com",
+        "date": "2025-04-21T13:30:00",
+        "body": "Attached is the new project proposal for your review and approval.",
+        "summary": "New project proposal attached."
+      },
+      {
+        "subject": "Updated Work Schedule",
+        "sender": "hr@company.com",
+        "date": "2025-04-21T14:00:00",
+        "body": "Please review the updated work schedule for next month.",
+        "summary": "Updated work schedule available."
+      },
+      {
+        "subject": "Invoice Payment Confirmation",
+        "sender": "accounts@company.com",
+        "date": "2025-04-21T14:30:00",
+        "body": "Invoice #8987 has been successfully paid.",
+        "summary": "Invoice #8987 payment confirmed."
+      },
+      {
+        "subject": "Client Meeting Recap",
+        "sender": "sales@company.com",
+        "date": "2025-04-21T15:00:00",
+        "body": "The recap of the meeting with Client ABC is attached.",
+        "summary": "Meeting recap with Client ABC."
+      },
+      {
+        "subject": "Budget Allocation for Marketing",
+        "sender": "marketing@company.com",
+        "date": "2025-04-21T15:30:00",
+        "body": "Please review the proposed budget allocation for Q3 marketing.",
+        "summary": "Proposed budget for Q3 marketing."
+      },
+      {
+        "subject": "Security Policy Update",
+        "sender": "security@company.com",
+        "date": "2025-04-21T16:00:00",
+        "body": "The security policy has been updated. Please review the changes.",
+        "summary": "Updated security policy."
+      },
+      {
+        "subject": "Performance Bonus Eligibility",
+        "sender": "hr@company.com",
+        "date": "2025-04-21T16:30:00",
+        "body": "Employees eligible for the performance bonus this year have been listed.",
+        "summary": "Performance bonus eligibility list."
+      },
+      {
+        "subject": "Annual Leave Request",
+        "sender": "employee@company.com",
+        "date": "2025-04-21T17:00:00",
+        "body": "Please approve my annual leave request for next month.",
+        "summary": "Annual leave request pending approval."
+      },
+      {
+        "subject": "Invoice #8975 Overdue",
+        "sender": "accounts@company.com",
+        "date": "2025-04-21T17:30:00",
+        "body": "Invoice #8975 is overdue. Kindly process the payment as soon as possible.",
+        "summary": "Overdue payment for Invoice #8975."
+      },
+      {
+        "subject": "New Software Update Available",
+        "sender": "it@company.com",
+        "date": "2025-04-21T18:00:00",
+        "body": "The new software update is now available for download.",
+        "summary": "New software update available."
+      },
+      {
+        "subject": "Upcoming Holiday Announcement",
+        "sender": "hr@company.com",
+        "date": "2025-04-21T18:30:00",
+        "body": "The company will observe a holiday on May 1st. Please plan accordingly.",
+        "summary": "Upcoming holiday on May 1st."
+      },
+      {
+        "subject": "Project Deadline Reminder",
+        "sender": "project_manager@company.com",
+        "date": "2025-04-21T19:00:00",
+        "body": "Reminder: The project deadline is approaching. Ensure all tasks are completed.",
+        "summary": "Project deadline approaching."
+      },
+      {
+        "subject": "Weekly Team Standup Notes",
+        "sender": "manager@company.com",
+        "date": "2025-04-21T19:30:00",
+        "body": "Notes from this week's team standup are attached.",
+        "summary": "Team standup notes attached."
+      },
+      {
+        "subject": "Important: Tax Filing Deadline",
+        "sender": "finance@company.com",
+        "date": "2025-04-21T20:00:00",
+        "body": "Please submit your tax forms before the filing deadline next week.",
+        "summary": "Tax filing deadline approaching."
+      },
+      {
+        "subject": "Server Downtime Notification",
+        "sender": "it@company.com",
+        "date": "2025-04-21T20:30:00",
+        "body": "The server will be down for maintenance tonight from 12 AM to 2 AM.",
+        "summary": "Scheduled server downtime tonight."
+      },
+
+
+
+    {
+        "metadata": {
+            "subject": "Project Deadline Reminder",
+            "sender": "project_manager@company.com",
+            "date": "2025-04-21T19:00:00",
+            "priority": "High",
+            "cc": ["team_lead@company.com", "qa@company.com"]
+        },
+        "content": {
+            "body": "Reminder: The project deadline is approaching. Ensure all tasks are completed. Please review the attached project specs and timeline.",
+            "attachments": [
+                {
+                    "name": "ProjectSpecs.pdf",
+                    "url": "http://company.com/files/ProjectSpecs.pdf",
+                    "size": "2MB"
+                },
+                {
+                    "name": "Timeline.xlsx",
+                    "url": "http://company.com/files/Timeline.xlsx",
+                    "size": "500KB"
+                }
+            ]
+        },
+        "summary": "Project deadline approaching. Action: Review attachments.",
+        "tags": ["deadline", "project", "urgent"],
+        "history": [
+            { "status": "sent", "timestamp": "2025-04-21T18:55:00" },
+            { "status": "read", "timestamp": "2025-04-21T19:05:00" }
+        ]
+    },
+    {
+        "metadata": {
+            "subject": "Weekly Team Standup Notes",
+            "sender": "manager@company.com",
+            "date": "2025-04-21T19:30:00",
+            "priority": "Normal",
+            "cc": []
+        },
+        "content": {
+            "body": "Attached are the notes from this week's team standup, including action items and follow-ups. Please review before the next meeting.",
+            "attachments": [
+                {
+                    "name": "StandupNotes.docx",
+                    "url": "http://company.com/files/StandupNotes.docx",
+                    "size": "1MB"
+                }
+            ]
+        },
+        "summary": "Weekly standup notes and action items attached.",
+        "tags": ["standup", "notes", "action"],
+        "history": [
+            { "status": "sent", "timestamp": "2025-04-21T19:25:00" },
+            { "status": "delivered", "timestamp": "2025-04-21T19:30:00" }
+        ]
+    },
+    {
+        "metadata": {
+            "subject": "Important: Tax Filing Deadline",
+            "sender": "finance@company.com",
+            "date": "2025-04-21T20:00:00",
+            "priority": "High",
+            "cc": ["accounting@company.com"]
+        },
+        "content": {
+            "body": "Please submit your tax forms before the filing deadline next week. Consult the attached guide if needed.",
+            "attachments": [
+                {
+                    "name": "TaxGuidelines.pdf",
+                    "url": "http://company.com/files/TaxGuidelines.pdf",
+                    "size": "750KB"
+                }
+            ]
+        },
+        "summary": "Tax filing deadline approaching. Submission required.",
+        "tags": ["tax", "deadline"],
+        "history": [
+            { "status": "sent", "timestamp": "2025-04-21T19:55:00" }
+        ]
+    },
+    {
+        "metadata": {
+            "subject": "Server Downtime Notification",
+            "sender": "it@company.com",
+            "date": "2025-04-21T20:30:00",
+            "priority": "High",
+            "cc": ["support@company.com"],
+            "location": "Data Center 1"
+        },
+        "content": {
+            "body": "The server will be down for maintenance tonight from 12 AM to 2 AM. Plan your work accordingly.",
+            "attachments": []
+        },
+        "summary": "Scheduled server downtime tonight from 12 AM to 2 AM.",
+        "tags": ["maintenance", "downtime", "server"],
+        "history": [
+            { "status": "sent", "timestamp": "2025-04-21T20:25:00" },
+            { "status": "acknowledged", "timestamp": "2025-04-21T20:31:00" }
+        ]
+    },
+    {
+        "metadata": {
+            "subject": "New Leave Policy Announcement",
+            "sender": "hr@company.com",
+            "date": "2025-04-20T15:30:00",
+            "priority": "Normal",
+            "cc": ["all@company.com"]
+        },
+        "content": {
+            "body": "This is to inform you that the new leave policy will be effective from May 1st. Please review the updated document attached for details on changes.",
+            "attachments": [
+                {
+                    "name": "LeavePolicy.pdf",
+                    "url": "http://company.com/files/LeavePolicy.pdf",
+                    "size": "1.2MB"
+                }
+            ]
+        },
+        "summary": "New leave policy effective May 1st. Please review.",
+        "tags": ["policy", "announcement", "leave"],
+        "history": [
+            { "status": "sent", "timestamp": "2025-04-20T15:25:00" },
+            { "status": "read", "timestamp": "2025-04-20T15:40:00" }
+        ]
+    }
+]

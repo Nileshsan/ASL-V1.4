@@ -1,0 +1,180 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background: linear-gradient(to top right, #f7fafc, #ffffff);
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    color: #1a202c;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.bg-white {
+    background-color: #ffffff;
+}
+
+.shadow-2xl {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.rounded-2xl {
+    border-radius: 1rem;
+}
+
+.p-8 {
+    padding: 2rem;
+}
+
+.mb-8 {
+    margin-bottom: 2rem;
+}
+
+.mt-10 {
+    margin-top: 2.5rem;
+}
+
+.hidden {
+    display: none;
+}
+
+.text-indigo-500 {
+    color: #5a67d8;
+}
+
+.text-red-500 {
+    color: #f56565;
+}
+
+.text-gray-600 {
+    color: #718096;
+}
+
+.text-gray-700 {
+    color: #4a5568;
+}
+
+.text-gray-800 {
+    color: #2d3748;
+}
+
+.leading-relaxed {
+    line-height: 1.625;
+}
+
+.whitespace-pre-line {
+    white-space: pre-line;
+}
+
+.glow {
+    box-shadow: 0 0 8px rgba(99, 102, 241, 0.6), 0 0 16px rgba(99, 102, 241, 0.3);
+}
+
+.animate-pulse {
+    animation: pulse 1s infinite;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.5;
+    }
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Fade-In Animation */
+.fade-in {
+    animation: fadeIn 1s ease-out forwards;
+}
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* Button Styles */
+.btn-google {
+    background-color: #db4437;
+    color: #fff;
+    font-weight: 600;
+    padding: 0.5rem 1.5rem;
+    border-radius: 9999px;
+    text-decoration: none;
+    transition: background-color 0.2s;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.btn-google:hover {
+    background-color: #c33d2e;
+}
+.btn-outlook {
+    background-color: #0072c6;
+    color: #fff;
+    font-weight: 600;
+    padding: 0.5rem 1.5rem;
+    border-radius: 9999px;
+    text-decoration: none;
+    transition: background-color 0.2s;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.btn-outlook:hover {
+    background-color: #005ba1;
+}
+.btn-action {
+    background-color: #4f46e5;
+    color: #fff;
+    font-weight: 600;
+    padding: 0.75rem 2rem;
+    border-radius: 9999px;
+    font-size: 1.125rem;
+    transition: background-color 0.2s;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.btn-action:hover {
+    background-color: #4338ca;
+}
+
+/* Loading Text */
+.loading-text {
+    color: #6366f1;
+    font-weight: 500;
+    animation: pulse 2s infinite;
+}
+@keyframes pulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.5; }
+    100% { opacity: 1; }
+}
+
+/* Summary Box */
+.summary-box {
+    background-color: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-radius: 0.75rem;
+    padding: 1.5rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.summary-heading {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #1f2937;
+    margin-bottom: 1rem;
+}
+.summary-content {
+    color: #374151;
+    line-height: 1.5;
+    white-space: pre-line;
+}
+
+/* Error Text */
+.error-text {
+    color: #ef4444;
+    font-size: 0.875rem;
+    text-align: center;
+}

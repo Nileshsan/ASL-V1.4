@@ -1,0 +1,108 @@
+{"input": "System maintenance is scheduled from 2 AM to 3 AM on 2025-04-24. Expect service interruptions.", "output": "Invoice #6374 due; prompt payment requested by 2025-04-24."}
+{"input": "System maintenance is scheduled from 1 AM to 5 AM on 2025-04-27. Expect service interruptions.", "output": "Missing timesheet for week ending 2025-04-27; submit by EOD."}
+{"input": "System maintenance is scheduled from 2 AM to 5 AM on 2025-04-29. Expect service interruptions.", "output": "Domain renewal pending, due by 2025-04-29."}
+{"input": "Your invoice #2415 is due. Kindly complete payment by 2025-04-28 to avoid late fees.", "output": "Suspicious account activity detected; verify login."}
+{"input": "Reminder: The meeting is scheduled on 2025-04-22 at 15:00. Please verify your attendance.", "output": "Payment of $1161.53 processed successfully."}
+{"input": "Nilesh, your timesheet for the week ending 2025-04-27 is missing. Please submit it by EOD today.", "output": "Invoice #2651 due; prompt payment requested by 2025-04-27."}
+{"input": "Hi Nilesh, your domain renewal is pending. Please renew your domain by 2025-04-30 to ensure uninterrupted service.", "output": "Expense report approved; reimbursement by week's end."}
+{"input": "Hi Nilesh, your domain renewal is pending. Please renew your domain by 2025-04-28 to ensure uninterrupted service.", "output": "Suspicious account activity detected; verify login."}
+{"input": "Reminder: The meeting is scheduled on 2025-04-21 at 18:30. Please verify your attendance.", "output": "Suspicious account activity detected; verify login."}
+{"input": "Dear Nilesh, the expense report has been approved and reimbursement will be made by the end of this week.", "output": "Domain renewal pending, due by 2025-04-23."}
+{"input": "Your invoice #8760 is due. Kindly complete payment by 2025-04-21 to avoid late fees.", "output": "Invoice #8760 due; prompt payment requested by 2025-04-21."}
+{"input": "Dear Nilesh, please review the attached document regarding the project update.", "output": "Payment of $156.12 processed successfully."}
+{"input": "Dear Nilesh, the expense report has been approved and reimbursement will be made by the end of this week.", "output": "Suspicious account activity detected; verify login."}
+{"input": "Dear Nilesh, the expense report has been approved and reimbursement will be made by the end of this week.", "output": "Suspicious account activity detected; verify login."}
+{"input": "Nilesh, your timesheet for the week ending 2025-04-22 is missing. Please submit it by EOD today.", "output": "Expense report approved; reimbursement by week's end."}
+{"input": "System maintenance is scheduled from 1 AM to 3 AM on 2025-04-20. Expect service interruptions.", "output": "Meeting scheduled on 2025-04-20 at 11:30."}
+{"input": "We noticed suspicious activity in your account. Kindly verify your login immediately to secure your account.", "output": "Suspicious account activity detected; verify login."}
+{"input": "Hi Nilesh, your domain renewal is pending. Please renew your domain by 2025-04-28 to ensure uninterrupted service.", "output": "Invoice #6841 due; prompt payment requested by 2025-04-28."}
+{"input": "Your payment receipt for $981.67 has been processed successfully. Thank you for your business.", "output": "Invoice #6061 due; prompt payment requested by 2025-04-23."}
+{"input": "We noticed suspicious activity in your account. Kindly verify your login immediately to secure your account.", "output": "Marketing campaigns start on 2025-04-20; expect increased volume."}
+{"input": "We noticed suspicious activity in your account. Kindly verify your login immediately to secure your account.", "output": "Meeting scheduled on 2025-04-25 at 11:00."}
+{"input": "Your payment receipt for $1177.58 has been processed successfully. Thank you for your business.", "output": "Meeting scheduled on 2025-04-22 at 15:00."}
+{"input": "Your invoice #6338 is due. Kindly complete payment by 2025-04-20 to avoid late fees.", "output": "Marketing campaigns start on 2025-04-20; expect increased volume."}
+{"input": "Your payment receipt for $1397.57 has been processed successfully. Thank you for your business.", "output": "Expense report approved; reimbursement by week's end."}
+{"input": "Your payment receipt for $693.3 has been processed successfully. Thank you for your business.", "output": "Marketing campaigns start on 2025-04-24; expect increased volume."}
+{"input": "Hi Nilesh, your domain renewal is pending. Please renew your domain by 2025-04-30 to ensure uninterrupted service.", "output": "Meeting scheduled on 2025-04-30 at 13:30."}
+{"input": "Hi Nilesh, your domain renewal is pending. Please renew your domain by 2025-04-23 to ensure uninterrupted service.", "output": "Missing timesheet for week ending 2025-04-23; submit by EOD."}
+{"input": "Just a heads-up, the marketing team will start new campaigns on 2025-04-21. Expect higher email volume.", "output": "Suspicious account activity detected; verify login."}
+{"input": "Nilesh, your timesheet for the week ending 2025-04-20 is missing. Please submit it by EOD today.", "output": "Missing timesheet for week ending 2025-04-20; submit by EOD."}
+{"input": "Your payment receipt for $629.7 has been processed successfully. Thank you for your business.", "output": "Marketing campaigns start on 2025-04-20; expect increased volume."}
+{"input": "Nilesh, your timesheet for the week ending 2025-04-27 is missing. Please submit it by EOD today.", "output": "Expense report approved; reimbursement by week's end."}
+{"input": "Hi Nilesh, your domain renewal is pending. Please renew your domain by 2025-04-22 to ensure uninterrupted service.", "output": "Payment of $1351.93 processed successfully."}
+{"input": "Nilesh, your timesheet for the week ending 2025-04-22 is missing. Please submit it by EOD today.", "output": "Marketing campaigns start on 2025-04-22; expect increased volume."}
+{"input": "Nilesh, your timesheet for the week ending 2025-04-30 is missing. Please submit it by EOD today.", "output": "Review required for project update document."}
+{"input": "We noticed suspicious activity in your account. Kindly verify your login immediately to secure your account.", "output": "Scheduled system maintenance from 0 AM to 5 AM on 2025-04-27."}
+{"input": "Hi Nilesh, your domain renewal is pending. Please renew your domain by 2025-04-30 to ensure uninterrupted service.", "output": "Scheduled system maintenance from 0 AM to 5 AM on 2025-04-30."}
+{"input": "Your invoice #8912 is due. Kindly complete payment by 2025-04-21 to avoid late fees.", "output": "Scheduled system maintenance from 0 AM to 3 AM on 2025-04-21."}
+{"input": "Your invoice #7941 is due. Kindly complete payment by 2025-04-28 to avoid late fees.", "output": "Review required for project update document."}
+{"input": "Dear Nilesh, please review the attached document regarding the project update.", "output": "Meeting scheduled on 2025-04-29 at 9:30."}
+{"input": "Dear Nilesh, please review the attached document regarding the project update.", "output": "Expense report approved; reimbursement by week's end."}
+{"input": "Nilesh, your timesheet for the week ending 2025-04-27 is missing. Please submit it by EOD today.", "output": "Expense report approved; reimbursement by week's end."}
+{"input": "Your invoice #1637 is due. Kindly complete payment by 2025-04-29 to avoid late fees.", "output": "Missing timesheet for week ending 2025-04-29; submit by EOD."}
+{"input": "Hi Nilesh, your domain renewal is pending. Please renew your domain by 2025-04-28 to ensure uninterrupted service.", "output": "Marketing campaigns start on 2025-04-28; expect increased volume."}
+{"input": "Hi Nilesh, your domain renewal is pending. Please renew your domain by 2025-04-25 to ensure uninterrupted service.", "output": "Review required for project update document."}
+{"input": "Dear Nilesh, please review the attached document regarding the project update.", "output": "Payment of $308.01 processed successfully."}
+{"input": "Just a heads-up, the marketing team will start new campaigns on 2025-04-22. Expect higher email volume.", "output": "Payment of $184.82 processed successfully."}
+{"input": "System maintenance is scheduled from 1 AM to 5 AM on 2025-04-21. Expect service interruptions.", "output": "Missing timesheet for week ending 2025-04-21; submit by EOD."}
+{"input": "Hi Nilesh, your domain renewal is pending. Please renew your domain by 2025-04-24 to ensure uninterrupted service.", "output": "Missing timesheet for week ending 2025-04-24; submit by EOD."}
+{"input": "Dear Nilesh, the expense report has been approved and reimbursement will be made by the end of this week.", "output": "Payment of $965.68 processed successfully."}
+{"input": "Hi Nilesh, your domain renewal is pending. Please renew your domain by 2025-04-30 to ensure uninterrupted service.", "output": "Review required for project update document."}
+{"input": "Hi Nilesh, attached is your invoice for the month of March 2025. Kindly make sure the payment is completed by the 10th of next month to avoid any late fees.", "output": "Invoice for March 2025 due by 10th next month."}
+{"input": "Reminder: Your outstanding payment of $500 for the monthly subscription is due. Please process the payment immediately.", "output": "Outstanding payment of $500 due for subscription."}
+{"input": "Hello Nilesh, this is a friendly reminder about the meeting scheduled for tomorrow at 3 PM. Please be on time.", "output": "Meeting reminder for tomorrow at 3 PM."}
+{"input": "Dear Nilesh, the task assigned to you regarding the project XYZ has been successfully completed. Kindly review the report and provide feedback.", "output": "Task completed for project XYZ, awaiting feedback."}
+{"input": "Please be advised that the deadline for the annual report submission has been moved up to next Monday, April 2nd. Kindly ensure timely submission.", "output": "Annual report deadline moved to April 2nd."}
+{"input": "Dear Nilesh, I hope you're doing well. This email serves as a reminder that your office rent is due this Friday. Kindly ensure payment by that time.", "output": "Office rent due this Friday."}
+{"input": "Hi Nilesh, just following up on the task assigned to you last week. Please provide the final draft by end of day Friday.", "output": "Task follow-up, final draft due Friday."}
+{"input": "Reminder: The deadline for submitting the quarterly financial report is fast approaching. Kindly complete the necessary details before the end of the week.", "output": "Quarterly financial report due by the end of the week."}
+{"input": "Dear Nilesh, your business card design is approved. Kindly proceed with the next steps and get back to me with updates.", "output": "Business card design approved, proceed with next steps."}
+{"input": "Dear Nilesh, please review the attached invoice for the consulting services provided. Payment is expected within 30 days.", "output": "Consulting services invoice attached, payment due in 30 days."}
+{"input": "Hi Nilesh, your domain renewal is pending. Please renew your domain before April 15th to ensure uninterrupted service.", "output": "Domain renewal pending, due by April 15th."}
+{"input": "Dear Nilesh, the system maintenance window is scheduled from 12 AM to 4 AM tomorrow. Expect downtime during this period.", "output": "System maintenance scheduled from 12 AM to 4 AM tomorrow."}
+{"input": "Your payment receipt for $1,200 has been processed successfully. Thank you for your business.", "output": "Payment of $1,200 processed successfully."}
+{"input": "Nilesh, your timesheet for the week ending April 10th is missing. Please submit it by EOD today.", "output": "Missing timesheet for April 10th, submit by EOD."}
+{"input": "We noticed suspicious activity in your account. Please verify your login immediately to secure your account.", "output": "Suspicious activity detected, verify your login."}
+{"input": "Just a heads-up, the marketing team will be running email campaigns starting this Thursday. Expect higher email volume.", "output": "Marketing campaigns starting Thursday, expect more emails."}
+{"input": "Dear Nilesh, the expense report has been approved and processed. Reimbursement will be made by the end of this week.", "output": "Expense report approved, reimbursement by week's end."}
+{"input": "Reminder: The team standup is now moved to 9:30 AM every Monday. Please update your calendar.", "output": "Weekly team standup moved to 9:30 AM on Mondays."}
+{"input": "Hi Nilesh, please find attached the agreement for the upcoming contract. Review and sign at your earliest convenience.", "output": "Agreement attached for new contract, review and sign."}
+{"input": "This is to inform you that the new leave policy will be effective from May 1st. Please go through the details.", "output": "New leave policy effective May 1st."}
+{"input": "Dear Nilesh, your shipment has been delayed due to unforeseen circumstances. We apologize for the inconvenience.", "output": "Shipment delayed due to unforeseen circumstances."}
+{"input": "Hello, please find your monthly bank statement attached. Reach out if you notice any discrepancies.", "output": "Monthly bank statement attached."}
+{"input": "Nilesh, your requested software license has been issued. The key is included in the attached file.", "output": "Software license issued, key attached."}
+{"input": "We're upgrading our servers on Sunday. There may be short service interruptions between 1 AM and 3 AM.", "output": "Server upgrade Sunday, possible outages 1\u20133 AM."}
+{"input": "Your interview is scheduled for Wednesday at 11 AM via Zoom. The link is attached.", "output": "Interview scheduled Wednesday at 11 AM on Zoom."}
+{"input": "Reminder: Team building activity at the park this Friday at 4 PM. Snacks and drinks provided.", "output": "Team building activity Friday 4 PM at the park."}
+{"input": "Congratulations! Your leave for April 22\u201324 has been approved by your manager.", "output": "Leave approved for April 22\u201324."}
+{"input": "Hi, your IT ticket #45231 has been resolved. Let us know if you face any more issues.", "output": "IT ticket #45231 resolved."}
+{"input": "Hi Nilesh, attached is your invoice for the month of March 2025. Kindly make sure the payment is completed by the 10th of next month to avoid any late fees.", "output": "Invoice for March 2025 due by 10th next month."}
+{"input": "Reminder: Your outstanding payment of $500 for the monthly subscription is due. Please process the payment immediately.", "output": "Outstanding payment of $500 due for subscription."}
+{"input": "Hello Nilesh, this is a friendly reminder about the meeting scheduled for tomorrow at 3 PM. Please be on time.", "output": "Meeting reminder for tomorrow at 3 PM."}
+{"input": "Dear Nilesh, the task assigned to you regarding the project XYZ has been successfully completed. Kindly review the report and provide feedback.", "output": "Task completed for project XYZ, awaiting feedback."}
+{"input": "Please be advised that the deadline for the annual report submission has been moved up to next Monday, April 2nd. Kindly ensure timely submission.", "output": "Annual report deadline moved to April 2nd."}
+{"input": "Dear Nilesh, I hope you're doing well. This email serves as a reminder that your office rent is due this Friday. Kindly ensure payment by that time.", "output": "Office rent due this Friday."}
+{"input": "Hi Nilesh, just following up on the task assigned to you last week. Please provide the final draft by end of day Friday.", "output": "Task follow-up, final draft due Friday."}
+{"input": "Reminder: The deadline for submitting the quarterly financial report is fast approaching. Kindly complete the necessary details before the end of the week.", "output": "Quarterly financial report due by the end of the week."}
+{"input": "Dear Nilesh, your business card design is approved. Kindly proceed with the next steps and get back to me with updates.", "output": "Business card design approved, proceed with next steps."}
+{"input": "Dear Nilesh, please review the attached invoice for the consulting services provided. Payment is expected within 30 days.", "output": "Consulting services invoice attached, payment due in 30 days."}
+{"input": "Hi Nilesh, your domain renewal is pending. Please renew your domain before April 15th to ensure uninterrupted service.", "output": "Domain renewal pending, due by April 15th."}
+{"input": "Dear Nilesh, the system maintenance window is scheduled from 12 AM to 4 AM tomorrow. Expect downtime during this period.", "output": "System maintenance scheduled from 12 AM to 4 AM tomorrow."}
+{"input": "Your payment receipt for $1,200 has been processed successfully. Thank you for your business.", "output": "Payment of $1,200 processed successfully."}
+{"input": "Nilesh, your timesheet for the week ending April 10th is missing. Please submit it by EOD today.", "output": "Missing timesheet for April 10th, submit by EOD."}
+{"input": "We noticed suspicious activity in your account. Please verify your login immediately to secure your account.", "output": "Suspicious activity detected, verify your login."}
+{"input": "Just a heads-up, the marketing team will be running email campaigns starting this Thursday. Expect higher email volume.", "output": "Marketing campaigns starting Thursday, expect more emails."}
+{"input": "Dear Nilesh, the expense report has been approved and processed. Reimbursement will be made by the end of this week.", "output": "Expense report approved, reimbursement by week's end."}
+{"input": "Reminder: The team standup is now moved to 9:30 AM every Monday. Please update your calendar.", "output": "Weekly team standup moved to 9:30 AM on Mondays."}
+{"input": "Hi Nilesh, please find attached the agreement for the upcoming contract. Review and sign at your earliest convenience.", "output": "Agreement attached for new contract, review and sign."}
+{"input": "This is to inform you that the new leave policy will be effective from May 1st. Please go through the details.", "output": "New leave policy effective May 1st."}
+{"input": "Dear Nilesh, your shipment has been delayed due to unforeseen circumstances. We apologize for the inconvenience.", "output": "Shipment delayed due to unforeseen circumstances."}
+{"input": "Hello, please find your monthly bank statement attached. Reach out if you notice any discrepancies.", "output": "Monthly bank statement attached."}
+{"input": "Nilesh, your requested software license has been issued. The key is included in the attached file.", "output": "Software license issued, key attached."}
+{"input": "We're upgrading our servers on Sunday. There may be short service interruptions between 1 AM and 3 AM.", "output": "Server upgrade Sunday, possible outages 1\u20133 AM."}
+{"input": "Your interview is scheduled for Wednesday at 11 AM via Zoom. The link is attached.", "output": "Interview scheduled Wednesday at 11 AM on Zoom."}
+{"input": "Reminder: Team building activity at the park this Friday at 4 PM. Snacks and drinks provided.", "output": "Team building activity Friday 4 PM at the park."}
+{"input": "Congratulations! Your leave for April 22\u201324 has been approved by your manager.", "output": "Leave approved for April 22\u201324."}
+{"input": "Hi, your IT ticket #45231 has been resolved. Let us know if you face any more issues.", "output": "IT ticket #45231 resolved."}
+{"input": "You have a new follower on LinkedIn. View their profile now.", "output": "Ignore - promotional/social content."}
+{"input": "Great deals on electronics! Up to 60% off this weekend only!", "output": "Ignore - advertisement."}

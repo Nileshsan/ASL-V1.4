@@ -1,0 +1,6 @@
+Flask==2.2.2
+requests==2.28.1
+flask-cors==3.0.10
+beautifulsoup4==4.11.1
+nltk==3.7
+Werkzeug<3

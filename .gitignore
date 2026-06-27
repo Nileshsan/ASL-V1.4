@@ -1,0 +1,9 @@
+﻿*.keras
+*.h5
+*.weights
+*.pem
+*.key
+.env
+__pycache__/
+.ipynb_checkpoints/
+data/Database/

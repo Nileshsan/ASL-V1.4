@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Presonie - AI Email Assistant</title>
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Lato&family=Open+Sans&display=swap" rel="stylesheet" />
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    /* Custom Tailwind Extensions */
+    .animate-pulse-slow {
+      animation: pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+    }
+    @keyframes pulse {
+      0% { opacity: 1; }
+      50% { opacity: 0.5; }
+      100% { opacity: 1; }
+    }
+  </style>
+</head>
+<body class="bg-gradient-to-r from-[#E0F0C7] to-[#E5E5BE] font-sans text-gray-800">
+  <!-- Navbar -->
+  <nav class="bg-gray-900 py-4 px-6 md:px-8 sticky top-0 z-50 shadow-md">
+    <div class="container mx-auto flex justify-between items-center">
+      <div class="flex items-center gap-4">
+        <a href="#" class="text-2xl font-bold text-[#82df82] hover:text-yellow-400 transition duration-300 flex items-center">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7 mr-2" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 14H4V8l8 5 8-5v10z"></path>
+          </svg>
+          Presonie
+        </a>
+        <div class="hidden md:flex gap-4">
+          <a href="#features" class="text-white hover:text-[#f8e4ae] px-3 py-2 transition-colors">Features</a>
+          <a href="#about" class="text-white hover:text-[#f8e4ae] px-3 py-2 transition-colors">About</a>
+        </div>
+      </div>
+      <div class="flex gap-3">
+        <a href="/login" class="text-white hover:text-[#f8e4ae] px-3 py-2 transition-colors">Login</a>
+        <a href="/register" class="text-white hover:text-[#f8e4ae] px-3 py-2 transition-colors">Register</a>
+        <a href="/profile" class="text-white hover:text-[#f8e4ae] px-3 py-2 transition-colors">Profile</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <section class="container mx-auto my-8 px-4 text-center">
+    <h1 class="text-3xl md:text-4xl font-bold text-[#1976d2] mb-5">Email Summarizer</h1>
+    <!-- Conditionally display connected email from backend (using templating engine) -->
+    {% if google_email %}
+      <p class="text-green-600 text-lg mb-4">✅ Connected Gmail: <strong>{{ google_email }}</strong></p>
+    {% else %}
+      <a href="{{ url_for('connect_google') }}" class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-6 rounded-full transition duration-300 hover:scale-105 inline-block mb-4">
+        Connect with Google
+      </a>
+    {% endif %}
+    <div class="flex flex-col md:flex-row justify-center gap-4">
+      <a href="{{ url_for('summarize') }}" class="bg-green-600 hover:bg-green-700 text-white font-semibold py-2 px-6 rounded-full transition duration-300 hover:scale-105 inline-block">
+        Summarize Emails
+      </a>
+    </div>
+  </section>
+
+  <!-- Main Assistant Section -->
+  <section class="hero-section bg-gradient-to-r from-[#e0ffe0] to-[#e3f0ff] py-16 md:py-20 rounded-b-[40px] mb-8 shadow-lg text-center">
+    <div class="container mx-auto px-4">
+      <h2 class="text-4xl md:text-5xl font-bold text-[#1976d2] mb-6">Presonie - Your Personal AI Email Assistant</h2>
+      <p class="text-xl max-w-3xl mx-auto mb-8">
+        Connect your Gmail and Outlook accounts, then let our AI summarize your 24-hour emails for you.
+      </p>
+      <div class="flex flex-wrap justify-center gap-4 mb-8">
+        <a href="{{ url_for('connect_google') }}" class="bg-[#db4437] hover:bg-[#c33d2e] text-white font-semibold py-3 px-6 rounded-full flex items-center transition transform hover:scale-105">
+          <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 24 24">
+            <!-- Google Icon SVG Path -->
+            <path d="M21.35 11.1h-9.18v2.97h5.27c-.23 1.27-.93 2.35-1.98 3.06v2.57h3.2c1.87-1.73 2.97-4.28 2.97-7.2 0-.68-.07-1.34-.2-1.98z"></path>
+            <path d="M12.17 22c2.7 0 4.98-.89 6.64-2.42l-3.2-2.57c-.89.59-2.04.94-3.44.94-2.64 0-4.87-1.78-5.68-4.18H3.17v2.63C4.82 19.87 8.1 22 12.17 22z"></path>
+            <path d="M6.49 13.34c-.19-.57-.3-1.17-.3-1.8s.11-1.23.3-1.8V7.1H3.17A9.94 9.94 0 002 10.74c0 1.59.38 3.1 1.07 4.41l3.42-1.81z"></path>
+            <path d="M12.17 5.5c1.47 0 2.79.51 3.82 1.51l2.87-2.87C16.13 2.27 14.02 1 12.17 1 8.1 1 4.82 3.13 3.17 6.37l3.32 2.63c.81-2.4 3.04-4.18 5.68-4.18z"></path>
+          </svg>
+          Connect Gmail
+        </a>
+        <a href="{{ url_for('connect_outlook') }}" class="bg-[#0072c6] hover:bg-[#005ba1] text-white font-semibold py-3 px-6 rounded-full flex items-center transition transform hover:scale-105">
+          <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 24 24">
+            <!-- Outlook Icon SVG Path (Placeholder) -->
+            <path d="M12 2a10 10 0 100 20 10 10 0 000-20zM6 12.5l4 4 8-8-4-4-8 8z"></path>
+          </svg>
+          Connect Outlook
+        </a>
+      </div>
+      <button id="startBtn" class="bg-indigo-600 hover:bg-indigo-700 text-white font-semibold py-3 px-8 rounded-full text-lg transition shadow-md hover:shadow-lg transform hover:scale-105 mx-auto flex items-center">
+        <svg class="w-6 h-6 mr-2" fill="currentColor" viewBox="0 0 24 24">
+          <!-- Brain Icon SVG Path (Placeholder) -->
+          <path d="M12 2a7 7 0 00-7 7c0 3.5 7 13 7 13s7-9.5 7-13a7 7 0 00-7-7z"></path>
+        </svg>
+        🧠 Summarize Emails
+      </button>
+    </div>
+  </section>
+
+  <!-- Status Section -->
+  <div class="container mx-auto px-4 my-10">
+    <div id="loading" class="text-center my-6 text-indigo-600 font-medium animate-pulse-slow hidden">
+      ⏳ Summarizing your inbox... Please wait.
+    </div>
+    <div id="summaryOutput" class="bg-white border border-gray-200 rounded-xl p-6 shadow-md hover:shadow-lg hidden">
+      <h2 class="text-xl font-semibold text-gray-800 mb-4">📄 Summary</h2>
+      <div class="prose max-w-none" id="summaryContent">
+        <!-- Summary content will be injected here -->
+      </div>
+    </div>
+    <div id="errorBox" class="text-center text-red-500 text-sm mt-4 hidden">
+      ⚠️ Unable to summarize. Please check your connection or try again later.
+    </div>
+  </div>
+
+  <!-- Features Section -->
+  <section id="features" class="container mx-auto px-4 my-16">
+    <h2 class="text-3xl font-bold text-[#1976d2] mb-10 text-center">Features</h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <div class="bg-white p-6 rounded-xl shadow-md hover:shadow-lg transition transform hover:scale-105 text-center">
+        <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mb-4 mx-auto">
+          <svg class="w-10 h-10 text-blue-600" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+            <path d="M2 17l10 5 10-5"></path>
+            <path d="M2 12l10 5 10-5"></path>
+          </svg>
+        </div>
+        <h4 class="text-xl font-semibold mb-3">AI Summarization</h4>
+        <p class="text-gray-600">Receive concise and accurate summaries of your emails quickly.</p>
+      </div>
+      <div class="bg-white p-6 rounded-xl shadow-md hover:shadow-lg transition transform hover:scale-105 text-center">
+        <div class="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mb-4 mx-auto">
+          <svg class="w-10 h-10 text-green-600" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M4 4h16v16H4z"></path>
+          </svg>
+        </div>
+        <h4 class="text-xl font-semibold mb-3">Multi-Platform</h4>
+        <p class="text-gray-600">Seamlessly connect Gmail and Outlook for a unified experience.</p>
+      </div>
+      <div class="bg-white p-6 rounded-xl shadow-md hover:shadow-lg transition transform hover:scale-105 text-center">
+        <div class="w-16 h-16 bg-purple-100 rounded-full flex items-center justify-center mb-4 mx-auto">
+          <svg class="w-10 h-10 text-purple-600" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 12a2 2 0 100-4 2 2 0 000 4z"></path>
+            <path d="M4 22h16V2H4v20z"></path>
+          </svg>
+        </div>
+        <h4 class="text-xl font-semibold mb-3">Secure & Private</h4>
+        <p class="text-gray-600">Your data is processed securely and never stored without your consent.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section id="about" class="container mx-auto px-4 my-16">
+    <h2 class="text-3xl font-bold text-[#1976d2] mb-6 text-center">About Presonie</h2>
+    <div class="max-w-3xl mx-auto bg-white p-8 rounded-xl shadow-md text-center">
+      <p class="text-lg mb-6">Presonie is designed to streamline your email workflow with state-of-the-art AI technology. Connect your Gmail and Outlook accounts, and let our assistant do the heavy lifting by summarizing your daily email communications.</p>
+      <div class="grid grid-cols-2 gap-6 text-center">
+        <div>
+          <div class="text-3xl font-bold text-blue-600">500+</div>
+          <div class="text-gray-600">Active Users</div>
+        </div>
+        <div>
+          <div class="text-3xl font-bold text-blue-600">10k+</div>
+          <div class="text-gray-600">Emails Summarized</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-gray-900 text-gray-300 py-6 mt-16">
+    <div class="container mx-auto px-4 text-center">
+      <p>&copy; 2025 Presonie. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <!-- Inline Script Logic -->
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const startBtn = document.getElementById("startBtn");
+      const summaryBox = document.getElementById("summaryOutput");
+      const summaryContent = document.getElementById("summaryContent");
+      const loading = document.getElementById("loading");
+      const errorBox = document.getElementById("errorBox");
+
+      startBtn.addEventListener("click", async () => {
+        startBtn.disabled = true;
+        loading.classList.remove("hidden");
+        errorBox.classList.add("hidden");
+        summaryBox.classList.add("hidden");
+
+        try {
+          const res = await fetch("/summarize");
+          const data = await res.json();
+          loading.classList.add("hidden");
+          if (data && data.summary) {
+            summaryContent.innerText = data.summary;
+            summaryBox.classList.remove("hidden");
+          } else {
+            throw new Error("Empty response");
+          }
+        } catch (err) {
+          loading.classList.add("hidden");
+          errorBox.classList.remove("hidden");
+        }
+        startBtn.disabled = false;
+      });
+    });
+  </script>
+</body>
+</html>
